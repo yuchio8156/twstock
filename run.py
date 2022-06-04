@@ -4,6 +4,7 @@ import twstock as tw
 
 from pathlib import Path
 from datetime import datetime
+from apscheduler.schedulers.background import BlockingScheduler
 
 
 def run(
@@ -32,4 +33,6 @@ def run(
 
 
 if __name__ == "__main__": 
-    run()
+    scheduler = BlockingScheduler()
+    scheduler.add_job(run, "cron", day_of_week="mon-fri", hour=0, minute=0)
+    scheduler.start()
