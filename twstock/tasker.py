@@ -12,11 +12,11 @@ from decouple import config
 from threading import Thread
 from datetime import datetime
 
-from twstock.utils.sort_stock import sort_stock
+from twstock.sorter import sort_stock
 from twstock.stock_data_crawler import StockDataCrawler
 from twstock.stock_info_crawler import StockInfoCrawler
 
-from twstock.utils.get_logger import get_logger
+from twstock.logger import get_logger
 main_logger = get_logger(name="main", level=logging.INFO)
 
 

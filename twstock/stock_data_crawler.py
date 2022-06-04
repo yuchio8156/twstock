@@ -7,7 +7,7 @@ import pandas as pd
 from typing import Dict
 from urllib import parse
 from datetime import datetime
-from twstock.utils.get_logger import get_logger
+from twstock.logger import get_logger
 data_logger = get_logger(name="data")
 
 

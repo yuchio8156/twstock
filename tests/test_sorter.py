@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from twstock.utils.sort_stock import sort_stock
+from twstock.sorter import sort_stock
 
 
 def test_sort_stock(): 

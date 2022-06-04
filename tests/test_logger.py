@@ -5,7 +5,7 @@ import logging
 import os.path
 
 from datetime import datetime
-from twstock.utils.get_logger import get_logger
+from twstock.logger import get_logger
 
 
 def test_get_logger(): 

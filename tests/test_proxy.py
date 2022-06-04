@@ -2,7 +2,7 @@
 
 import re
 
-from twstock.utils.get_proxy import get_proxy
+from twstock.proxy import get_proxy
 
 
 def test_get_proxy(): 

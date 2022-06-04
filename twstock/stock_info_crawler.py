@@ -4,7 +4,7 @@ import time
 import requests
 import pandas as pd
 
-from twstock.utils.get_logger import get_logger
+from twstock.logger import get_logger
 info_logger = get_logger(name="info")
 
 
