@@ -9,7 +9,6 @@ def sort_stock(
         ) -> list: 
     """
     Sort and pick the top n stocks with the largest price change
-    Consider the time complexity, use heapq instead of sort
     Required input keys are ticker, close and change
     Return is a list of dictionary containing ticker and diff
     

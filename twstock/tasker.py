@@ -55,13 +55,14 @@ def get_stock_info(
     return stock_info_df
 
 
-def get_stock_top3(
+def get_top_stock(
         stock_info_df: pd.DataFrame, 
         today: str=datetime.today().strftime("%Y%m%d"), 
+        top_n: int=3, 
         use_thread: bool=True, 
         ): 
     """
-    Get all the stock price data of the day and sort the top three by industry
+    Get all the stock price data of the day and sort the top n by industry
     Depends on the result of the `get_stock_info()` function
     There are three processing methods: 
         1. Local: execute sequentially
@@ -75,6 +76,7 @@ def get_stock_top3(
             listed_at (str): listing date, formatted as yyyy/mm/dd
             industry (str): industry type
         today (str): the date for retrieve data, formatted as yyyymmdd, default today
+        top_n (int): top n stocks, default 3
         use_thread (bool): whether to use multithreading, default True
     
     Returns:
@@ -103,7 +105,7 @@ def get_stock_top3(
         if use_thread: 
             thread = Thread(
                 target=run_ticker_by_industry, 
-                args=(industry, ticker_list, today, use_thread), 
+                args=(industry, ticker_list, today, top_n, use_thread), 
                 )
             thread.start()
             thread_list.append(thread)
@@ -127,6 +129,7 @@ def run_ticker_by_industry(
         industry: str, 
         ticker_list: list, 
         today: str=datetime.today().strftime("%Y%m%d"), 
+        top_n: int=3, 
         use_thread: bool=True, 
         ): 
     """
@@ -136,6 +139,7 @@ def run_ticker_by_industry(
         industry (str): industry type
         ticker_list (list): tickers of the industry
         today (str): the date for retrieve data, formatted as yyyymmdd, default today
+        top_n (int): top n stocks, default 3
         use_thread (bool): whether to use multithreading, default True
     
     Returns:
@@ -178,4 +182,4 @@ def run_ticker_by_industry(
 
 if __name__ == "__main__": 
     stock_info_df = get_stock_info()
-    get_stock_top3(stock_info_df=stock_info_df)
+    get_top_stock(stock_info_df=stock_info_df)

@@ -25,8 +25,8 @@ def run(
     # fetch stock info
     stock_info_df = tw.get_stock_info(today=today)
     
-    # fetch top3 for each industry
-    tw.get_stock_top3(stock_info_df=stock_info_df, today=today, use_thread=True)
+    # fetch top 3 for each industry
+    tw.get_top_stock(stock_info_df=stock_info_df, today=today, top_n=3, use_thread=True)
     
     return None
 

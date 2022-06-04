@@ -6,7 +6,7 @@ import json
 import pytest
 import pandas as pd
 
-from twstock.tasker import get_stock_info, get_stock_top3
+from twstock.tasker import get_stock_info, get_top_stock
 
 
 @pytest.fixture(scope="module")
@@ -38,11 +38,12 @@ def test_get_stock_info():
     return stock_info_df
 
 
-def test_get_stock_top3(test_get_stock_info): 
+def test_get_top_stock(test_get_stock_info): 
 
     today = "20220601"
     use_thread = True
-    get_stock_top3(stock_info_df=test_get_stock_info, today=today, use_thread=use_thread)
+    top_n = 3
+    get_top_stock(stock_info_df=test_get_stock_info, today=today, top_n=top_n, use_thread=use_thread)
     
     industry_list = [
         "光電業", "其他業", "其他電子業", "化學工業", "半導體業", "塑膠工業", "建材營造業", 
