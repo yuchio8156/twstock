@@ -1,0 +1,5942 @@
+[
+    {
+        "ticker": "1101",
+        "name": "台泥",
+        "listed_at": "1962/02/09",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1102",
+        "name": "亞泥",
+        "listed_at": "1962/06/08",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1103",
+        "name": "嘉泥",
+        "listed_at": "1969/11/14",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1104",
+        "name": "環泥",
+        "listed_at": "1971/02/01",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1108",
+        "name": "幸福",
+        "listed_at": "1990/06/06",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1109",
+        "name": "信大",
+        "listed_at": "1991/12/05",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1110",
+        "name": "東泥",
+        "listed_at": "1994/10/22",
+        "industry": "水泥工業"
+    },
+    {
+        "ticker": "1201",
+        "name": "味全",
+        "listed_at": "1962/02/09",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1203",
+        "name": "味王",
+        "listed_at": "1964/08/24",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1210",
+        "name": "大成",
+        "listed_at": "1978/05/20",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1213",
+        "name": "大飲",
+        "listed_at": "1981/04/10",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1215",
+        "name": "卜蜂",
+        "listed_at": "1987/07/27",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1216",
+        "name": "統一",
+        "listed_at": "1987/12/28",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1217",
+        "name": "愛之味",
+        "listed_at": "1989/10/28",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1218",
+        "name": "泰山",
+        "listed_at": "1989/11/11",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1219",
+        "name": "福壽",
+        "listed_at": "1990/12/01",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1220",
+        "name": "台榮",
+        "listed_at": "1991/11/20",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1225",
+        "name": "福懋油",
+        "listed_at": "1993/09/27",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1227",
+        "name": "佳格",
+        "listed_at": "1994/04/09",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1229",
+        "name": "聯華",
+        "listed_at": "1976/07/19",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1231",
+        "name": "聯華食",
+        "listed_at": "1995/11/02",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1232",
+        "name": "大統益",
+        "listed_at": "1996/02/09",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1233",
+        "name": "天仁",
+        "listed_at": "1999/01/20",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1234",
+        "name": "黑松",
+        "listed_at": "1999/03/12",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1235",
+        "name": "興泰",
+        "listed_at": "2000/09/11",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1236",
+        "name": "宏亞",
+        "listed_at": "2001/09/17",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1256",
+        "name": "鮮活果汁-KY",
+        "listed_at": "2016/03/17",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1301",
+        "name": "台塑",
+        "listed_at": "1964/07/27",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1303",
+        "name": "南亞",
+        "listed_at": "1967/11/05",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1304",
+        "name": "台聚",
+        "listed_at": "1972/05/20",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1305",
+        "name": "華夏",
+        "listed_at": "1973/03/05",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1307",
+        "name": "三芳",
+        "listed_at": "1985/11/23",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1308",
+        "name": "亞聚",
+        "listed_at": "1986/06/20",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1309",
+        "name": "台達化",
+        "listed_at": "1986/06/27",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1310",
+        "name": "台苯",
+        "listed_at": "1987/08/06",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1312",
+        "name": "國喬",
+        "listed_at": "1988/12/21",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1313",
+        "name": "聯成",
+        "listed_at": "1989/03/27",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1314",
+        "name": "中石化",
+        "listed_at": "1991/07/12",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1315",
+        "name": "達新",
+        "listed_at": "1992/05/09",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1316",
+        "name": "上曜",
+        "listed_at": "1992/10/15",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1319",
+        "name": "東陽",
+        "listed_at": "1994/12/12",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1321",
+        "name": "大洋",
+        "listed_at": "1999/01/26",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1323",
+        "name": "永裕",
+        "listed_at": "2000/09/11",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1324",
+        "name": "地球",
+        "listed_at": "2000/09/11",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1325",
+        "name": "恆大",
+        "listed_at": "2000/09/11",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1326",
+        "name": "台化",
+        "listed_at": "1984/12/20",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1337",
+        "name": "再生-KY",
+        "listed_at": "2011/07/01",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1338",
+        "name": "廣華-KY",
+        "listed_at": "2012/12/19",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1339",
+        "name": "昭輝",
+        "listed_at": "2012/04/24",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1340",
+        "name": "勝悅-KY",
+        "listed_at": "2013/12/06",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1341",
+        "name": "富林-KY",
+        "listed_at": "2018/12/24",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1342",
+        "name": "八貫",
+        "listed_at": "2020/11/24",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1402",
+        "name": "遠東新",
+        "listed_at": "1967/04/14",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1409",
+        "name": "新纖",
+        "listed_at": "1973/08/31",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1410",
+        "name": "南染",
+        "listed_at": "1973/10/18",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1413",
+        "name": "宏洲",
+        "listed_at": "1975/12/23",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1414",
+        "name": "東和",
+        "listed_at": "1976/02/02",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1416",
+        "name": "廣豐",
+        "listed_at": "1976/04/20",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1417",
+        "name": "嘉裕",
+        "listed_at": "1976/12/28",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1418",
+        "name": "東華",
+        "listed_at": "1977/02/14",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1419",
+        "name": "新紡",
+        "listed_at": "1977/03/14",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1423",
+        "name": "利華",
+        "listed_at": "1979/04/02",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1432",
+        "name": "大魯閣",
+        "listed_at": "1982/07/26",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "1434",
+        "name": "福懋",
+        "listed_at": "1985/12/24",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1435",
+        "name": "中福",
+        "listed_at": "1987/12/28",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1436",
+        "name": "華友聯",
+        "listed_at": "1988/04/11",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1437",
+        "name": "勤益控",
+        "listed_at": "1988/11/10",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1438",
+        "name": "三地開發",
+        "listed_at": "1988/12/15",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1439",
+        "name": "中和",
+        "listed_at": "1989/05/22",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1440",
+        "name": "南紡",
+        "listed_at": "1989/10/03",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1441",
+        "name": "大東",
+        "listed_at": "1989/10/27",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1442",
+        "name": "名軒",
+        "listed_at": "1989/11/16",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1443",
+        "name": "立益",
+        "listed_at": "1990/04/21",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1444",
+        "name": "力麗",
+        "listed_at": "1990/08/08",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1445",
+        "name": "大宇",
+        "listed_at": "1991/02/05",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1446",
+        "name": "宏和",
+        "listed_at": "1991/10/15",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1447",
+        "name": "力鵬",
+        "listed_at": "1992/01/28",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1449",
+        "name": "佳和",
+        "listed_at": "1992/03/12",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1451",
+        "name": "年興",
+        "listed_at": "1992/12/21",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1452",
+        "name": "宏益",
+        "listed_at": "1992/12/28",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1453",
+        "name": "大將",
+        "listed_at": "1993/04/19",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1454",
+        "name": "台富",
+        "listed_at": "1993/05/07",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1455",
+        "name": "集盛",
+        "listed_at": "1993/10/07",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1456",
+        "name": "怡華",
+        "listed_at": "1993/12/09",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1457",
+        "name": "宜進",
+        "listed_at": "1994/10/20",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1459",
+        "name": "聯發",
+        "listed_at": "1994/10/26",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1460",
+        "name": "宏遠",
+        "listed_at": "1995/04/28",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1463",
+        "name": "強盛",
+        "listed_at": "1996/12/05",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1464",
+        "name": "得力",
+        "listed_at": "1997/01/18",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1465",
+        "name": "偉全",
+        "listed_at": "1997/09/08",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1466",
+        "name": "聚隆",
+        "listed_at": "1998/04/04",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1467",
+        "name": "南緯",
+        "listed_at": "1998/12/21",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1468",
+        "name": "昶和",
+        "listed_at": "1999/01/21",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1470",
+        "name": "大統新創",
+        "listed_at": "1999/05/21",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1471",
+        "name": "首利",
+        "listed_at": "2000/03/06",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "1472",
+        "name": "三洋實業",
+        "listed_at": "2000/09/11",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1473",
+        "name": "台南",
+        "listed_at": "2000/09/11",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1474",
+        "name": "弘裕",
+        "listed_at": "2000/10/31",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1475",
+        "name": "業旺",
+        "listed_at": "2000/10/27",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1476",
+        "name": "儒鴻",
+        "listed_at": "2001/04/18",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1477",
+        "name": "聚陽",
+        "listed_at": "2003/01/21",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "1503",
+        "name": "士電",
+        "listed_at": "1969/12/15",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1504",
+        "name": "東元",
+        "listed_at": "1973/11/05",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1506",
+        "name": "正道",
+        "listed_at": "1980/08/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1512",
+        "name": "瑞利",
+        "listed_at": "1994/01/28",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1513",
+        "name": "中興電",
+        "listed_at": "1994/03/08",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1514",
+        "name": "亞力",
+        "listed_at": "1994/03/26",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1515",
+        "name": "力山",
+        "listed_at": "1995/02/04",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1516",
+        "name": "川飛",
+        "listed_at": "1995/04/01",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "1517",
+        "name": "利奇",
+        "listed_at": "1995/11/14",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1519",
+        "name": "華城",
+        "listed_at": "1997/04/16",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1521",
+        "name": "大億",
+        "listed_at": "1997/10/06",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1522",
+        "name": "堤維西",
+        "listed_at": "1997/10/06",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1524",
+        "name": "耿鼎",
+        "listed_at": "1998/10/30",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1525",
+        "name": "江申",
+        "listed_at": "1999/05/15",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1526",
+        "name": "日馳",
+        "listed_at": "2000/03/27",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1527",
+        "name": "鑽全",
+        "listed_at": "2000/06/21",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1528",
+        "name": "恩德",
+        "listed_at": "2000/09/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1529",
+        "name": "樂士",
+        "listed_at": "2000/09/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1530",
+        "name": "亞崴",
+        "listed_at": "2000/09/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1531",
+        "name": "高林股",
+        "listed_at": "2000/09/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1532",
+        "name": "勤美",
+        "listed_at": "2000/09/11",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1533",
+        "name": "車王電",
+        "listed_at": "2001/04/06",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1535",
+        "name": "中宇",
+        "listed_at": "2001/09/17",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1536",
+        "name": "和大",
+        "listed_at": "2001/09/17",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1537",
+        "name": "廣隆",
+        "listed_at": "2002/01/22",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1538",
+        "name": "正峰",
+        "listed_at": "2002/08/26",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1539",
+        "name": "巨庭",
+        "listed_at": "2002/10/29",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1540",
+        "name": "喬福",
+        "listed_at": "2002/08/26",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1541",
+        "name": "錩泰",
+        "listed_at": "2003/03/19",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1558",
+        "name": "伸興",
+        "listed_at": "2014/12/23",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1560",
+        "name": "中砂",
+        "listed_at": "2005/01/31",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1568",
+        "name": "倉佑",
+        "listed_at": "2014/05/14",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1582",
+        "name": "信錦",
+        "listed_at": "2009/12/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "1583",
+        "name": "程泰",
+        "listed_at": "2008/01/24",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1587",
+        "name": "吉茂",
+        "listed_at": "2018/04/16",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "1589",
+        "name": "永冠-KY",
+        "listed_at": "2012/04/27",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1590",
+        "name": "亞德客-KY",
+        "listed_at": "2010/12/13",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1597",
+        "name": "直得",
+        "listed_at": "2020/12/23",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "1598",
+        "name": "岱宇",
+        "listed_at": "2016/09/20",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1603",
+        "name": "華電",
+        "listed_at": "1968/06/03",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1604",
+        "name": "聲寶",
+        "listed_at": "1970/12/14",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1605",
+        "name": "華新",
+        "listed_at": "1972/11/03",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1608",
+        "name": "華榮",
+        "listed_at": "1988/07/11",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1609",
+        "name": "大亞",
+        "listed_at": "1988/12/12",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1611",
+        "name": "中電",
+        "listed_at": "1990/01/16",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1612",
+        "name": "宏泰",
+        "listed_at": "1993/05/08",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1614",
+        "name": "三洋電",
+        "listed_at": "1997/09/18",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1615",
+        "name": "大山",
+        "listed_at": "2000/03/30",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1616",
+        "name": "億泰",
+        "listed_at": "2000/09/11",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1617",
+        "name": "榮星",
+        "listed_at": "2000/09/11",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1618",
+        "name": "合機",
+        "listed_at": "2000/09/11",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1626",
+        "name": "艾美特-KY",
+        "listed_at": "2013/03/21",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "1701",
+        "name": "中化",
+        "listed_at": "1962/02/09",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1702",
+        "name": "南僑",
+        "listed_at": "1973/05/30",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1707",
+        "name": "葡萄王",
+        "listed_at": "1982/12/20",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1708",
+        "name": "東鹼",
+        "listed_at": "1986/06/16",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1709",
+        "name": "和益",
+        "listed_at": "1986/07/03",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1710",
+        "name": "東聯",
+        "listed_at": "1987/10/21",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1711",
+        "name": "永光",
+        "listed_at": "1988/12/27",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1712",
+        "name": "興農",
+        "listed_at": "1989/12/14",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1713",
+        "name": "國化",
+        "listed_at": "1990/01/31",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1714",
+        "name": "和桐",
+        "listed_at": "1991/08/30",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1717",
+        "name": "長興",
+        "listed_at": "1994/03/31",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1718",
+        "name": "中纖",
+        "listed_at": "1963/12/02",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1720",
+        "name": "生達",
+        "listed_at": "1995/12/12",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1721",
+        "name": "三晃",
+        "listed_at": "1996/05/16",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1722",
+        "name": "台肥",
+        "listed_at": "1998/03/24",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1723",
+        "name": "中碳",
+        "listed_at": "1998/11/27",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1725",
+        "name": "元禎",
+        "listed_at": "2000/09/11",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1726",
+        "name": "永記",
+        "listed_at": "2000/09/11",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1727",
+        "name": "中華化",
+        "listed_at": "2000/09/11",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1730",
+        "name": "花仙子",
+        "listed_at": "2001/09/17",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1731",
+        "name": "美吾華",
+        "listed_at": "2001/09/17",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1732",
+        "name": "毛寶",
+        "listed_at": "2001/09/17",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1733",
+        "name": "五鼎",
+        "listed_at": "2001/09/17",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1734",
+        "name": "杏輝",
+        "listed_at": "2002/08/26",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1735",
+        "name": "日勝化",
+        "listed_at": "2002/08/26",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1736",
+        "name": "喬山",
+        "listed_at": "2003/01/09",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1737",
+        "name": "臺鹽",
+        "listed_at": "2003/11/18",
+        "industry": "食品工業"
+    },
+    {
+        "ticker": "1752",
+        "name": "南光",
+        "listed_at": "2022/01/19",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1760",
+        "name": "寶齡富錦",
+        "listed_at": "2018/01/23",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1762",
+        "name": "中化生",
+        "listed_at": "2010/12/20",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1773",
+        "name": "勝一",
+        "listed_at": "2009/02/27",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1776",
+        "name": "展宇",
+        "listed_at": "2016/05/09",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "1783",
+        "name": "和康生",
+        "listed_at": "2013/12/20",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1786",
+        "name": "科妍",
+        "listed_at": "2013/11/12",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1789",
+        "name": "神隆",
+        "listed_at": "2011/09/29",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1795",
+        "name": "美時",
+        "listed_at": "2019/12/16",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "1802",
+        "name": "台玻",
+        "listed_at": "1973/07/20",
+        "industry": "玻璃陶瓷"
+    },
+    {
+        "ticker": "1805",
+        "name": "寶徠",
+        "listed_at": "1989/10/20",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1806",
+        "name": "冠軍",
+        "listed_at": "1992/09/29",
+        "industry": "玻璃陶瓷"
+    },
+    {
+        "ticker": "1808",
+        "name": "潤隆",
+        "listed_at": "1994/10/26",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "1809",
+        "name": "中釉",
+        "listed_at": "1996/04/30",
+        "industry": "玻璃陶瓷"
+    },
+    {
+        "ticker": "1810",
+        "name": "和成",
+        "listed_at": "1991/10/14",
+        "industry": "玻璃陶瓷"
+    },
+    {
+        "ticker": "1817",
+        "name": "凱撒衛",
+        "listed_at": "2013/10/24",
+        "industry": "玻璃陶瓷"
+    },
+    {
+        "ticker": "1903",
+        "name": "士紙",
+        "listed_at": "1963/12/09",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "1904",
+        "name": "正隆",
+        "listed_at": "1971/09/10",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "1905",
+        "name": "華紙",
+        "listed_at": "1975/02/07",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "1906",
+        "name": "寶隆",
+        "listed_at": "1976/04/26",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "1907",
+        "name": "永豐餘",
+        "listed_at": "1977/02/22",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "1909",
+        "name": "榮成",
+        "listed_at": "1985/11/19",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "2002",
+        "name": "中鋼",
+        "listed_at": "1974/12/26",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2006",
+        "name": "東和鋼鐵",
+        "listed_at": "1988/07/13",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2007",
+        "name": "燁興",
+        "listed_at": "1988/10/04",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2008",
+        "name": "高興昌",
+        "listed_at": "1988/12/28",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2009",
+        "name": "第一銅",
+        "listed_at": "1989/10/20",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2010",
+        "name": "春源",
+        "listed_at": "1989/12/22",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2012",
+        "name": "春雨",
+        "listed_at": "1991/10/17",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2013",
+        "name": "中鋼構",
+        "listed_at": "1992/01/21",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2014",
+        "name": "中鴻",
+        "listed_at": "1992/02/20",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2015",
+        "name": "豐興",
+        "listed_at": "1992/05/25",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2017",
+        "name": "官田鋼",
+        "listed_at": "1992/11/02",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2020",
+        "name": "美亞",
+        "listed_at": "1993/04/27",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2022",
+        "name": "聚亨",
+        "listed_at": "1995/03/27",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2023",
+        "name": "燁輝",
+        "listed_at": "1995/07/28",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2024",
+        "name": "志聯",
+        "listed_at": "1995/12/30",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2025",
+        "name": "千興",
+        "listed_at": "1996/02/08",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2027",
+        "name": "大成鋼",
+        "listed_at": "1996/10/24",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2028",
+        "name": "威致",
+        "listed_at": "1996/12/13",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2029",
+        "name": "盛餘",
+        "listed_at": "1997/01/11",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2030",
+        "name": "彰源",
+        "listed_at": "1998/12/24",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2031",
+        "name": "新光鋼",
+        "listed_at": "2000/09/11",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2032",
+        "name": "新鋼",
+        "listed_at": "2000/09/11",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2033",
+        "name": "佳大",
+        "listed_at": "2000/09/11",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2034",
+        "name": "允強",
+        "listed_at": "2001/09/17",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2038",
+        "name": "海光",
+        "listed_at": "2008/12/30",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2049",
+        "name": "上銀",
+        "listed_at": "2009/06/26",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "2059",
+        "name": "川湖",
+        "listed_at": "2008/06/25",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2062",
+        "name": "橋椿",
+        "listed_at": "2007/11/16",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2069",
+        "name": "運錩",
+        "listed_at": "2016/03/22",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2101",
+        "name": "南港",
+        "listed_at": "1963/11/01",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2102",
+        "name": "泰豐",
+        "listed_at": "1979/07/16",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2103",
+        "name": "台橡",
+        "listed_at": "1982/09/25",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2104",
+        "name": "國際中橡",
+        "listed_at": "1986/07/15",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2105",
+        "name": "正新",
+        "listed_at": "1987/12/07",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2106",
+        "name": "建大",
+        "listed_at": "1990/12/20",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2107",
+        "name": "厚生",
+        "listed_at": "1992/03/03",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2108",
+        "name": "南帝",
+        "listed_at": "1992/10/27",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2109",
+        "name": "華豐",
+        "listed_at": "2000/05/08",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2114",
+        "name": "鑫永銓",
+        "listed_at": "2010/12/29",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "2115",
+        "name": "六暉-KY",
+        "listed_at": "2013/12/25",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2201",
+        "name": "裕隆",
+        "listed_at": "1976/07/08",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2204",
+        "name": "中華",
+        "listed_at": "1991/03/12",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2206",
+        "name": "三陽工業",
+        "listed_at": "1996/07/29",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2207",
+        "name": "和泰車",
+        "listed_at": "1997/02/25",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2208",
+        "name": "台船",
+        "listed_at": "2008/12/22",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2211",
+        "name": "長榮鋼",
+        "listed_at": "2021/04/12",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2227",
+        "name": "裕日車",
+        "listed_at": "2004/12/21",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2228",
+        "name": "劍麟",
+        "listed_at": "2013/11/25",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2231",
+        "name": "為升",
+        "listed_at": "2010/11/19",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2233",
+        "name": "宇隆",
+        "listed_at": "2019/09/17",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2236",
+        "name": "百達-KY",
+        "listed_at": "2015/06/03",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2239",
+        "name": "英利-KY",
+        "listed_at": "2016/01/27",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2241",
+        "name": "艾姆勒",
+        "listed_at": "2020/08/26",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2243",
+        "name": "宏旭-KY",
+        "listed_at": "2017/09/27",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2247",
+        "name": "汎德永業",
+        "listed_at": "2020/10/12",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2250",
+        "name": "IKKA-KY",
+        "listed_at": "2021/05/31",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2301",
+        "name": "光寶科",
+        "listed_at": "1995/11/17",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2302",
+        "name": "麗正",
+        "listed_at": "1985/01/15",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2303",
+        "name": "聯電",
+        "listed_at": "1985/07/16",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2305",
+        "name": "全友",
+        "listed_at": "1988/10/21",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2308",
+        "name": "台達電",
+        "listed_at": "1988/12/19",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2312",
+        "name": "金寶",
+        "listed_at": "1989/11/07",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2313",
+        "name": "華通",
+        "listed_at": "1990/07/24",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2314",
+        "name": "台揚",
+        "listed_at": "1990/08/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2316",
+        "name": "楠梓電",
+        "listed_at": "1991/02/05",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2317",
+        "name": "鴻海",
+        "listed_at": "1991/06/18",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2321",
+        "name": "東訊",
+        "listed_at": "1991/11/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2323",
+        "name": "中環",
+        "listed_at": "1992/02/17",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2324",
+        "name": "仁寶",
+        "listed_at": "1992/02/18",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2327",
+        "name": "國巨",
+        "listed_at": "1993/10/22",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2328",
+        "name": "廣宇",
+        "listed_at": "1993/11/09",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2329",
+        "name": "華泰",
+        "listed_at": "1994/04/20",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2330",
+        "name": "台積電",
+        "listed_at": "1994/09/05",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2331",
+        "name": "精英",
+        "listed_at": "1994/09/21",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2332",
+        "name": "友訊",
+        "listed_at": "1994/10/17",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2337",
+        "name": "旺宏",
+        "listed_at": "1995/03/15",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2338",
+        "name": "光罩",
+        "listed_at": "1995/04/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2340",
+        "name": "台亞",
+        "listed_at": "1995/05/02",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2342",
+        "name": "茂矽",
+        "listed_at": "1995/09/19",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2344",
+        "name": "華邦電",
+        "listed_at": "1995/10/18",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2345",
+        "name": "智邦",
+        "listed_at": "1995/11/15",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2347",
+        "name": "聯強",
+        "listed_at": "1995/12/13",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "2348",
+        "name": "海悅",
+        "listed_at": "1996/01/05",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2349",
+        "name": "錸德",
+        "listed_at": "1996/04/23",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2351",
+        "name": "順德",
+        "listed_at": "1996/04/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2352",
+        "name": "佳世達",
+        "listed_at": "1996/07/22",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2353",
+        "name": "宏碁",
+        "listed_at": "1996/09/18",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2354",
+        "name": "鴻準",
+        "listed_at": "1996/10/08",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2355",
+        "name": "敬鵬",
+        "listed_at": "1996/10/14",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2356",
+        "name": "英業達",
+        "listed_at": "1996/11/13",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2357",
+        "name": "華碩",
+        "listed_at": "1996/11/14",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2358",
+        "name": "廷鑫",
+        "listed_at": "1996/12/18",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2359",
+        "name": "所羅門",
+        "listed_at": "1996/12/19",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2360",
+        "name": "致茂",
+        "listed_at": "1996/12/21",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2362",
+        "name": "藍天",
+        "listed_at": "1997/04/02",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2363",
+        "name": "矽統",
+        "listed_at": "1997/08/01",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2364",
+        "name": "倫飛",
+        "listed_at": "1997/08/11",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2365",
+        "name": "昆盈",
+        "listed_at": "1997/11/03",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2367",
+        "name": "燿華",
+        "listed_at": "1997/12/13",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2368",
+        "name": "金像電",
+        "listed_at": "1998/03/09",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2369",
+        "name": "菱生",
+        "listed_at": "1998/04/10",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2371",
+        "name": "大同",
+        "listed_at": "1962/02/09",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "2373",
+        "name": "震旦行",
+        "listed_at": "1991/08/01",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2374",
+        "name": "佳能",
+        "listed_at": "1995/01/16",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2375",
+        "name": "凱美",
+        "listed_at": "1998/08/29",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2376",
+        "name": "技嘉",
+        "listed_at": "1998/09/24",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2377",
+        "name": "微星",
+        "listed_at": "1998/10/31",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2379",
+        "name": "瑞昱",
+        "listed_at": "1998/10/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2380",
+        "name": "虹光",
+        "listed_at": "1998/12/03",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2382",
+        "name": "廣達",
+        "listed_at": "1999/01/08",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2383",
+        "name": "台光電",
+        "listed_at": "1998/11/27",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2385",
+        "name": "群光",
+        "listed_at": "1999/01/05",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2387",
+        "name": "精元",
+        "listed_at": "1999/01/25",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2388",
+        "name": "威盛",
+        "listed_at": "1999/03/05",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2390",
+        "name": "云辰",
+        "listed_at": "1999/06/15",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2392",
+        "name": "正崴",
+        "listed_at": "1999/09/20",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2393",
+        "name": "億光",
+        "listed_at": "1999/11/04",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2395",
+        "name": "研華",
+        "listed_at": "1999/12/13",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2397",
+        "name": "友通",
+        "listed_at": "2000/01/15",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2399",
+        "name": "映泰",
+        "listed_at": "1999/12/16",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2401",
+        "name": "凌陽",
+        "listed_at": "2000/01/27",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2402",
+        "name": "毅嘉",
+        "listed_at": "2000/01/14",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2404",
+        "name": "漢唐",
+        "listed_at": "2000/03/14",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2405",
+        "name": "浩鑫",
+        "listed_at": "2000/03/17",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2406",
+        "name": "國碩",
+        "listed_at": "2000/04/29",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2408",
+        "name": "南亞科",
+        "listed_at": "2000/08/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2409",
+        "name": "友達",
+        "listed_at": "2000/09/08",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2412",
+        "name": "中華電",
+        "listed_at": "2000/10/27",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2413",
+        "name": "環科",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2414",
+        "name": "精技",
+        "listed_at": "2000/09/11",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "2415",
+        "name": "錩新",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2417",
+        "name": "圓剛",
+        "listed_at": "2000/09/11",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2419",
+        "name": "仲琦",
+        "listed_at": "2000/09/11",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2420",
+        "name": "新巨",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2421",
+        "name": "建準",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2423",
+        "name": "固緯",
+        "listed_at": "2000/09/11",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2424",
+        "name": "隴華",
+        "listed_at": "2000/09/11",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2425",
+        "name": "承啟",
+        "listed_at": "2000/09/11",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2426",
+        "name": "鼎元",
+        "listed_at": "2000/09/11",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2427",
+        "name": "三商電",
+        "listed_at": "2000/09/11",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "2428",
+        "name": "興勤",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2429",
+        "name": "銘旺科",
+        "listed_at": "2000/09/11",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2430",
+        "name": "燦坤",
+        "listed_at": "2000/09/11",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "2431",
+        "name": "聯昌",
+        "listed_at": "2000/09/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2433",
+        "name": "互盛電",
+        "listed_at": "2000/09/11",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2434",
+        "name": "統懋",
+        "listed_at": "2000/09/11",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2436",
+        "name": "偉詮電",
+        "listed_at": "2000/09/11",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2438",
+        "name": "翔耀",
+        "listed_at": "2000/09/11",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2439",
+        "name": "美律",
+        "listed_at": "2000/09/11",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2440",
+        "name": "太空梭",
+        "listed_at": "2000/11/10",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2441",
+        "name": "超豐",
+        "listed_at": "2000/10/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2442",
+        "name": "新美齊",
+        "listed_at": "2000/11/22",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2443",
+        "name": "昶虹",
+        "listed_at": "2001/01/03",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2444",
+        "name": "兆勁",
+        "listed_at": "2000/12/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2449",
+        "name": "京元電子",
+        "listed_at": "2001/05/09",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2450",
+        "name": "神腦",
+        "listed_at": "2001/05/24",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2451",
+        "name": "創見",
+        "listed_at": "2001/05/03",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2453",
+        "name": "凌群",
+        "listed_at": "2001/05/22",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "2454",
+        "name": "聯發科",
+        "listed_at": "2001/07/23",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2455",
+        "name": "全新",
+        "listed_at": "2002/01/24",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2457",
+        "name": "飛宏",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2458",
+        "name": "義隆",
+        "listed_at": "2001/09/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2459",
+        "name": "敦吉",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2460",
+        "name": "建通",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2461",
+        "name": "光群雷",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2462",
+        "name": "良得電",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2464",
+        "name": "盟立",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2465",
+        "name": "麗臺",
+        "listed_at": "2001/09/19",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2466",
+        "name": "冠西電",
+        "listed_at": "2001/09/17",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2467",
+        "name": "志聖",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2468",
+        "name": "華經",
+        "listed_at": "2001/09/17",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "2471",
+        "name": "資通",
+        "listed_at": "2001/09/17",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "2472",
+        "name": "立隆電",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2474",
+        "name": "可成",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2476",
+        "name": "鉅祥",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2477",
+        "name": "美隆電",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2478",
+        "name": "大毅",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2480",
+        "name": "敦陽科",
+        "listed_at": "2001/09/17",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "2481",
+        "name": "強茂",
+        "listed_at": "2001/09/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "2482",
+        "name": "連宇",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2483",
+        "name": "百容",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2484",
+        "name": "希華",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2485",
+        "name": "兆赫",
+        "listed_at": "2001/09/17",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2486",
+        "name": "一詮",
+        "listed_at": "2001/09/19",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2488",
+        "name": "漢平",
+        "listed_at": "2001/09/17",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "2489",
+        "name": "瑞軒",
+        "listed_at": "2001/09/17",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2491",
+        "name": "吉祥全",
+        "listed_at": "2001/09/17",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "2492",
+        "name": "華新科",
+        "listed_at": "2001/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2493",
+        "name": "揚博",
+        "listed_at": "2002/01/23",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "2495",
+        "name": "普安",
+        "listed_at": "2022/06/01",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "2496",
+        "name": "卓越",
+        "listed_at": "2002/03/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2497",
+        "name": "怡利電",
+        "listed_at": "2002/02/04",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2498",
+        "name": "宏達電",
+        "listed_at": "2002/03/26",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "2501",
+        "name": "國建",
+        "listed_at": "1967/10/28",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2504",
+        "name": "國產",
+        "listed_at": "1978/03/14",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2505",
+        "name": "國揚",
+        "listed_at": "1979/11/14",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2506",
+        "name": "太設",
+        "listed_at": "1980/02/02",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2509",
+        "name": "全坤建",
+        "listed_at": "1988/05/20",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2511",
+        "name": "太子",
+        "listed_at": "1991/04/24",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2514",
+        "name": "龍邦",
+        "listed_at": "1992/09/26",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2515",
+        "name": "中工",
+        "listed_at": "1993/03/02",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2516",
+        "name": "新建",
+        "listed_at": "1993/05/25",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2520",
+        "name": "冠德",
+        "listed_at": "1993/10/27",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2524",
+        "name": "京城",
+        "listed_at": "1994/10/18",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2527",
+        "name": "宏璟",
+        "listed_at": "1995/03/06",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2528",
+        "name": "皇普",
+        "listed_at": "1995/03/10",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2530",
+        "name": "華建",
+        "listed_at": "1995/10/12",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2534",
+        "name": "宏盛",
+        "listed_at": "1996/02/12",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2535",
+        "name": "達欣工",
+        "listed_at": "1996/03/11",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2536",
+        "name": "宏普",
+        "listed_at": "1996/03/14",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2537",
+        "name": "聯上發",
+        "listed_at": "1996/09/06",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2538",
+        "name": "基泰",
+        "listed_at": "1996/11/01",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2539",
+        "name": "櫻花建",
+        "listed_at": "1997/07/16",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2540",
+        "name": "愛山林",
+        "listed_at": "1989/12/26",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2542",
+        "name": "興富發",
+        "listed_at": "1999/05/03",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2543",
+        "name": "皇昌",
+        "listed_at": "1999/10/15",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2545",
+        "name": "皇翔",
+        "listed_at": "2000/09/11",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2546",
+        "name": "根基",
+        "listed_at": "2000/09/11",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2547",
+        "name": "日勝生",
+        "listed_at": "2000/12/22",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2548",
+        "name": "華固",
+        "listed_at": "2002/08/26",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2597",
+        "name": "潤弘",
+        "listed_at": "2010/03/26",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2601",
+        "name": "益航",
+        "listed_at": "1965/11/04",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2603",
+        "name": "長榮",
+        "listed_at": "1987/09/21",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2605",
+        "name": "新興",
+        "listed_at": "1989/12/08",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2606",
+        "name": "裕民",
+        "listed_at": "1990/12/08",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2607",
+        "name": "榮運",
+        "listed_at": "1990/12/14",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2608",
+        "name": "嘉里大榮",
+        "listed_at": "1990/12/20",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2609",
+        "name": "陽明",
+        "listed_at": "1992/04/20",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2610",
+        "name": "華航",
+        "listed_at": "1993/02/26",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2611",
+        "name": "志信",
+        "listed_at": "1993/10/28",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2612",
+        "name": "中航",
+        "listed_at": "1994/10/20",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2613",
+        "name": "中櫃",
+        "listed_at": "1995/01/20",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2614",
+        "name": "東森",
+        "listed_at": "1995/09/23",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2615",
+        "name": "萬海",
+        "listed_at": "1996/05/16",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2616",
+        "name": "山隆",
+        "listed_at": "1997/11/08",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "2617",
+        "name": "台航",
+        "listed_at": "1998/06/24",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2618",
+        "name": "長榮航",
+        "listed_at": "2001/09/17",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2630",
+        "name": "亞航",
+        "listed_at": "2018/02/22",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2633",
+        "name": "台灣高鐵",
+        "listed_at": "2016/10/27",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2634",
+        "name": "漢翔",
+        "listed_at": "2014/08/25",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2636",
+        "name": "台驊投控",
+        "listed_at": "2016/12/22",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2637",
+        "name": "慧洋-KY",
+        "listed_at": "2010/12/01",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2642",
+        "name": "宅配通",
+        "listed_at": "2013/12/12",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "2701",
+        "name": "萬企",
+        "listed_at": "1965/03/22",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2702",
+        "name": "華園",
+        "listed_at": "1965/02/14",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2704",
+        "name": "國賓",
+        "listed_at": "1982/11/10",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2705",
+        "name": "六福",
+        "listed_at": "1988/12/24",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2706",
+        "name": "第一店",
+        "listed_at": "1991/06/25",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2707",
+        "name": "晶華",
+        "listed_at": "1998/03/09",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2712",
+        "name": "遠雄來",
+        "listed_at": "2013/12/03",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2722",
+        "name": "夏都",
+        "listed_at": "2012/03/14",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2723",
+        "name": "美食-KY",
+        "listed_at": "2010/11/22",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2727",
+        "name": "王品",
+        "listed_at": "2012/03/06",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2731",
+        "name": "雄獅",
+        "listed_at": "2013/09/24",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2739",
+        "name": "寒舍",
+        "listed_at": "2016/05/19",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2748",
+        "name": "雲品",
+        "listed_at": "2016/11/23",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2753",
+        "name": "八方雲集",
+        "listed_at": "2021/09/09",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "2801",
+        "name": "彰銀",
+        "listed_at": "1962/02/15",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2809",
+        "name": "京城銀",
+        "listed_at": "1983/07/20",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2812",
+        "name": "台中銀",
+        "listed_at": "1984/05/15",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2816",
+        "name": "旺旺保",
+        "listed_at": "1992/05/05",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2820",
+        "name": "華票",
+        "listed_at": "1994/10/26",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2832",
+        "name": "台產",
+        "listed_at": "1997/09/30",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2834",
+        "name": "臺企銀",
+        "listed_at": "1998/01/03",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2836",
+        "name": "高雄銀",
+        "listed_at": "1998/05/18",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2838",
+        "name": "聯邦銀",
+        "listed_at": "1998/06/29",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2841",
+        "name": "台開",
+        "listed_at": "1999/01/08",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2845",
+        "name": "遠東銀",
+        "listed_at": "1998/11/27",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2849",
+        "name": "安泰銀",
+        "listed_at": "1999/09/27",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2850",
+        "name": "新產",
+        "listed_at": "2000/05/22",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2851",
+        "name": "中再保",
+        "listed_at": "2000/07/06",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2852",
+        "name": "第一保",
+        "listed_at": "2000/11/28",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2855",
+        "name": "統一證",
+        "listed_at": "2002/09/16",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2867",
+        "name": "三商壽",
+        "listed_at": "2012/12/18",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2880",
+        "name": "華南金",
+        "listed_at": "2001/12/19",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2881",
+        "name": "富邦金",
+        "listed_at": "2001/12/19",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2882",
+        "name": "國泰金",
+        "listed_at": "2001/12/31",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2883",
+        "name": "開發金",
+        "listed_at": "2001/12/28",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2884",
+        "name": "玉山金",
+        "listed_at": "2002/01/28",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2885",
+        "name": "元大金",
+        "listed_at": "2002/02/04",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2886",
+        "name": "兆豐金",
+        "listed_at": "2002/02/04",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2887",
+        "name": "台新金",
+        "listed_at": "2002/02/18",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2888",
+        "name": "新光金",
+        "listed_at": "2002/02/19",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2889",
+        "name": "國票金",
+        "listed_at": "2002/03/26",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2890",
+        "name": "永豐金",
+        "listed_at": "2002/05/09",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2891",
+        "name": "中信金",
+        "listed_at": "2002/05/17",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2892",
+        "name": "第一金",
+        "listed_at": "2003/01/02",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2897",
+        "name": "王道銀行",
+        "listed_at": "2017/05/05",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2901",
+        "name": "欣欣",
+        "listed_at": "1976/05/07",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2903",
+        "name": "遠百",
+        "listed_at": "1978/10/11",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2904",
+        "name": "匯僑",
+        "listed_at": "1983/01/05",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2905",
+        "name": "三商",
+        "listed_at": "1988/09/19",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2906",
+        "name": "高林",
+        "listed_at": "1989/12/26",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2908",
+        "name": "特力",
+        "listed_at": "1993/02/18",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2910",
+        "name": "統領",
+        "listed_at": "1996/12/30",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2911",
+        "name": "麗嬰房",
+        "listed_at": "1997/01/18",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2912",
+        "name": "統一超",
+        "listed_at": "1997/08/22",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2913",
+        "name": "農林",
+        "listed_at": "1962/02/09",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2915",
+        "name": "潤泰全",
+        "listed_at": "1977/07/20",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2923",
+        "name": "鼎固-KY",
+        "listed_at": "2012/12/07",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "2929",
+        "name": "淘帝-KY",
+        "listed_at": "2013/12/30",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2936",
+        "name": "客思達-KY",
+        "listed_at": "2016/09/26",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2939",
+        "name": "凱羿-KY",
+        "listed_at": "2018/01/11",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "2945",
+        "name": "三商家購",
+        "listed_at": "2021/11/30",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "3002",
+        "name": "歐格",
+        "listed_at": "2002/01/23",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3003",
+        "name": "健和興",
+        "listed_at": "2002/02/19",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3004",
+        "name": "豐達科",
+        "listed_at": "2002/02/25",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "3005",
+        "name": "神基",
+        "listed_at": "2002/02/25",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3006",
+        "name": "晶豪科",
+        "listed_at": "2002/03/04",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3008",
+        "name": "大立光",
+        "listed_at": "2002/03/11",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3010",
+        "name": "華立",
+        "listed_at": "2002/07/22",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3011",
+        "name": "今皓",
+        "listed_at": "2002/07/22",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3013",
+        "name": "晟銘電",
+        "listed_at": "2002/09/16",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3014",
+        "name": "聯陽",
+        "listed_at": "2002/10/29",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3015",
+        "name": "全漢",
+        "listed_at": "2002/10/16",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3016",
+        "name": "嘉晶",
+        "listed_at": "2002/12/24",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3017",
+        "name": "奇鋐",
+        "listed_at": "2002/09/27",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3018",
+        "name": "同開",
+        "listed_at": "2002/08/26",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3019",
+        "name": "亞光",
+        "listed_at": "2002/08/26",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3021",
+        "name": "鴻名",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3022",
+        "name": "威強電",
+        "listed_at": "2002/08/26",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3023",
+        "name": "信邦",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3024",
+        "name": "憶聲",
+        "listed_at": "2002/08/26",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3025",
+        "name": "星通",
+        "listed_at": "2002/08/26",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3026",
+        "name": "禾伸堂",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3027",
+        "name": "盛達",
+        "listed_at": "2002/08/26",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3028",
+        "name": "增你強",
+        "listed_at": "2002/08/26",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3029",
+        "name": "零壹",
+        "listed_at": "2002/08/26",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "3030",
+        "name": "德律",
+        "listed_at": "2002/10/29",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3031",
+        "name": "佰鴻",
+        "listed_at": "2002/08/26",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3032",
+        "name": "偉訓",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3033",
+        "name": "威健",
+        "listed_at": "2002/08/26",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3034",
+        "name": "聯詠",
+        "listed_at": "2002/08/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3035",
+        "name": "智原",
+        "listed_at": "2002/08/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3036",
+        "name": "文曄",
+        "listed_at": "2002/08/26",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3037",
+        "name": "欣興",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3038",
+        "name": "全台",
+        "listed_at": "2002/08/26",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3040",
+        "name": "遠見",
+        "listed_at": "2002/08/26",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "3041",
+        "name": "揚智",
+        "listed_at": "2002/08/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3042",
+        "name": "晶技",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3043",
+        "name": "科風",
+        "listed_at": "2002/08/26",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3044",
+        "name": "健鼎",
+        "listed_at": "2002/08/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3045",
+        "name": "台灣大",
+        "listed_at": "2002/08/26",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3046",
+        "name": "建碁",
+        "listed_at": "2002/08/26",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3047",
+        "name": "訊舟",
+        "listed_at": "2002/08/26",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3048",
+        "name": "益登",
+        "listed_at": "2002/10/01",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3049",
+        "name": "和鑫",
+        "listed_at": "2002/09/27",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3050",
+        "name": "鈺德",
+        "listed_at": "2002/10/29",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3051",
+        "name": "力特",
+        "listed_at": "2002/10/28",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3052",
+        "name": "夆典",
+        "listed_at": "1995/11/25",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "3054",
+        "name": "立萬利",
+        "listed_at": "2002/11/18",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3055",
+        "name": "蔚華科",
+        "listed_at": "2002/12/12",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3056",
+        "name": "總太",
+        "listed_at": "2003/03/03",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "3057",
+        "name": "喬鼎",
+        "listed_at": "2002/12/18",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3058",
+        "name": "立德",
+        "listed_at": "2002/12/09",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3059",
+        "name": "華晶科",
+        "listed_at": "2002/12/24",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3060",
+        "name": "銘異",
+        "listed_at": "2003/04/21",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3062",
+        "name": "建漢",
+        "listed_at": "2003/07/28",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3090",
+        "name": "日電貿",
+        "listed_at": "2007/12/31",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3092",
+        "name": "鴻碩",
+        "listed_at": "2021/05/13",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3094",
+        "name": "聯傑",
+        "listed_at": "2007/08/06",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3130",
+        "name": "一零四",
+        "listed_at": "2006/02/17",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "3138",
+        "name": "耀登",
+        "listed_at": "2020/12/11",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3149",
+        "name": "正達",
+        "listed_at": "2011/11/23",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3164",
+        "name": "景岳",
+        "listed_at": "2010/03/22",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "3167",
+        "name": "大量",
+        "listed_at": "2013/10/21",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "3189",
+        "name": "景碩",
+        "listed_at": "2004/11/01",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3209",
+        "name": "全科",
+        "listed_at": "2008/11/26",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3229",
+        "name": "晟鈦",
+        "listed_at": "2009/12/31",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3231",
+        "name": "緯創",
+        "listed_at": "2003/08/19",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3257",
+        "name": "虹冠電",
+        "listed_at": "2011/03/21",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3266",
+        "name": "昇陽",
+        "listed_at": "2014/12/24",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "3296",
+        "name": "勝德",
+        "listed_at": "2007/12/31",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3305",
+        "name": "昇貿",
+        "listed_at": "2008/07/10",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3308",
+        "name": "聯德",
+        "listed_at": "2008/03/12",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3311",
+        "name": "閎暉",
+        "listed_at": "2004/03/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3312",
+        "name": "弘憶股",
+        "listed_at": "2010/12/29",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3321",
+        "name": "同泰",
+        "listed_at": "2015/12/15",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3338",
+        "name": "泰碩",
+        "listed_at": "2013/12/13",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3346",
+        "name": "麗清",
+        "listed_at": "2016/12/19",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "3356",
+        "name": "奇偶",
+        "listed_at": "2005/03/28",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3376",
+        "name": "新日興",
+        "listed_at": "2007/12/31",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3380",
+        "name": "明泰",
+        "listed_at": "2004/12/20",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3383",
+        "name": "新世紀",
+        "listed_at": "2007/12/10",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3406",
+        "name": "玉晶光",
+        "listed_at": "2005/12/20",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3413",
+        "name": "京鼎",
+        "listed_at": "2015/07/28",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3416",
+        "name": "融程電",
+        "listed_at": "2015/01/23",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3419",
+        "name": "譁裕",
+        "listed_at": "2008/01/21",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3432",
+        "name": "台端",
+        "listed_at": "2010/12/30",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3437",
+        "name": "榮創",
+        "listed_at": "2014/07/09",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3443",
+        "name": "創意",
+        "listed_at": "2006/11/03",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3450",
+        "name": "聯鈞",
+        "listed_at": "2006/04/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3454",
+        "name": "晶睿",
+        "listed_at": "2011/07/22",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3481",
+        "name": "群創",
+        "listed_at": "2006/10/24",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3494",
+        "name": "誠研",
+        "listed_at": "2007/12/13",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3501",
+        "name": "維熹",
+        "listed_at": "2007/09/20",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3504",
+        "name": "揚明光",
+        "listed_at": "2007/01/26",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3515",
+        "name": "華擎",
+        "listed_at": "2007/11/08",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3518",
+        "name": "柏騰",
+        "listed_at": "2007/11/28",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3528",
+        "name": "安馳",
+        "listed_at": "2016/05/18",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3530",
+        "name": "晶相光",
+        "listed_at": "2018/07/16",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3532",
+        "name": "台勝科",
+        "listed_at": "2007/12/10",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3533",
+        "name": "嘉澤",
+        "listed_at": "2007/12/10",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3535",
+        "name": "晶彩科",
+        "listed_at": "2008/01/31",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3536",
+        "name": "誠創",
+        "listed_at": "2008/04/30",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3543",
+        "name": "州巧",
+        "listed_at": "2020/04/15",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3545",
+        "name": "敦泰",
+        "listed_at": "2007/07/03",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3550",
+        "name": "聯穎",
+        "listed_at": "2010/11/10",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3557",
+        "name": "嘉威",
+        "listed_at": "2008/02/27",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "3563",
+        "name": "牧德",
+        "listed_at": "2019/04/02",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3576",
+        "name": "聯合再生",
+        "listed_at": "2009/01/12",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3583",
+        "name": "辛耘",
+        "listed_at": "2013/03/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3588",
+        "name": "通嘉",
+        "listed_at": "2009/08/14",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3591",
+        "name": "艾笛森",
+        "listed_at": "2010/11/12",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3592",
+        "name": "瑞鼎",
+        "listed_at": "2022/01/07",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3593",
+        "name": "力銘",
+        "listed_at": "2009/03/16",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3596",
+        "name": "智易",
+        "listed_at": "2009/03/11",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3605",
+        "name": "宏致",
+        "listed_at": "2009/03/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3607",
+        "name": "谷崧",
+        "listed_at": "2009/10/28",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3617",
+        "name": "碩天",
+        "listed_at": "2009/12/23",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3622",
+        "name": "洋華",
+        "listed_at": "2009/03/25",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3645",
+        "name": "達邁",
+        "listed_at": "2011/10/05",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3653",
+        "name": "健策",
+        "listed_at": "2009/11/18",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3661",
+        "name": "世芯-KY",
+        "listed_at": "2014/10/28",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3665",
+        "name": "貿聯-KY",
+        "listed_at": "2011/04/21",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "3669",
+        "name": "圓展",
+        "listed_at": "2011/08/25",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3673",
+        "name": "TPK-KY",
+        "listed_at": "2010/10/29",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "3679",
+        "name": "新至陞",
+        "listed_at": "2011/10/05",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "3682",
+        "name": "亞太電",
+        "listed_at": "2013/08/05",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3686",
+        "name": "達能",
+        "listed_at": "2010/07/20",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3694",
+        "name": "海華",
+        "listed_at": "2011/05/03",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3701",
+        "name": "大眾控",
+        "listed_at": "2004/08/30",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3702",
+        "name": "大聯大",
+        "listed_at": "2005/11/09",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "3703",
+        "name": "欣陸",
+        "listed_at": "2010/04/08",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "3704",
+        "name": "合勤控",
+        "listed_at": "2010/08/16",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "3705",
+        "name": "永信",
+        "listed_at": "2011/01/03",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "3706",
+        "name": "神達",
+        "listed_at": "2013/09/12",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3708",
+        "name": "上緯投控",
+        "listed_at": "2016/08/31",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "3711",
+        "name": "日月光投控",
+        "listed_at": "2018/04/30",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "3712",
+        "name": "永崴投控",
+        "listed_at": "2018/10/01",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "3714",
+        "name": "富采",
+        "listed_at": "2021/01/06",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4104",
+        "name": "佳醫",
+        "listed_at": "2007/12/31",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4106",
+        "name": "雃博",
+        "listed_at": "2004/11/08",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4108",
+        "name": "懷特",
+        "listed_at": "2008/07/16",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4119",
+        "name": "旭富",
+        "listed_at": "2004/01/07",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4133",
+        "name": "亞諾法",
+        "listed_at": "2009/12/28",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4137",
+        "name": "麗豐-KY",
+        "listed_at": "2013/11/27",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4142",
+        "name": "國光生",
+        "listed_at": "2012/05/03",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4148",
+        "name": "全宇生技-KY",
+        "listed_at": "2017/06/08",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4155",
+        "name": "訊映",
+        "listed_at": "2017/12/05",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4164",
+        "name": "承業醫",
+        "listed_at": "2012/10/24",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4190",
+        "name": "佐登-KY",
+        "listed_at": "2015/10/21",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4306",
+        "name": "炎洲",
+        "listed_at": "2008/01/21",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "4414",
+        "name": "如興",
+        "listed_at": "2004/09/06",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "4426",
+        "name": "利勤",
+        "listed_at": "2011/12/16",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "4438",
+        "name": "廣越",
+        "listed_at": "2016/10/18",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "4439",
+        "name": "冠星-KY",
+        "listed_at": "2019/12/05",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "4440",
+        "name": "宜新實業",
+        "listed_at": "2021/10/25",
+        "industry": "紡織纖維"
+    },
+    {
+        "ticker": "4526",
+        "name": "東台",
+        "listed_at": "2003/09/15",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4532",
+        "name": "瑞智",
+        "listed_at": "2003/08/04",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4536",
+        "name": "拓凱",
+        "listed_at": "2013/10/09",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "4540",
+        "name": "全球傳動",
+        "listed_at": "2018/08/15",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4545",
+        "name": "銘鈺",
+        "listed_at": "2016/01/06",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4551",
+        "name": "智伸科",
+        "listed_at": "2015/08/10",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "4552",
+        "name": "力達-KY",
+        "listed_at": "2016/07/20",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4555",
+        "name": "氣立",
+        "listed_at": "2015/10/27",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4557",
+        "name": "永新-KY",
+        "listed_at": "2015/10/12",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "4560",
+        "name": "強信-KY",
+        "listed_at": "2017/05/26",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4562",
+        "name": "穎漢",
+        "listed_at": "2017/08/21",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4564",
+        "name": "元翎",
+        "listed_at": "2019/03/07",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4566",
+        "name": "時碩工業",
+        "listed_at": "2018/02/05",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4571",
+        "name": "鈞興-KY",
+        "listed_at": "2019/09/17",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4572",
+        "name": "駐龍",
+        "listed_at": "2019/09/10",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4576",
+        "name": "大銀微系統",
+        "listed_at": "2019/09/04",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4581",
+        "name": "光隆精密-KY",
+        "listed_at": "2020/03/09",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "4583",
+        "name": "台灣精銳",
+        "listed_at": "2022/05/09",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "4720",
+        "name": "德淵",
+        "listed_at": "2015/06/24",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4722",
+        "name": "國精化",
+        "listed_at": "2012/08/15",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4737",
+        "name": "華廣",
+        "listed_at": "2010/12/23",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4739",
+        "name": "康普",
+        "listed_at": "2017/09/08",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4746",
+        "name": "台耀",
+        "listed_at": "2011/03/01",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "4755",
+        "name": "三福化",
+        "listed_at": "2013/11/27",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4763",
+        "name": "材料-KY",
+        "listed_at": "2015/11/09",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4764",
+        "name": "雙鍵",
+        "listed_at": "2018/01/04",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4766",
+        "name": "南寶",
+        "listed_at": "2018/11/28",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4770",
+        "name": "上品",
+        "listed_at": "2021/12/22",
+        "industry": "化學工業"
+    },
+    {
+        "ticker": "4807",
+        "name": "日成-KY",
+        "listed_at": "2017/06/26",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "4904",
+        "name": "遠傳",
+        "listed_at": "2005/08/24",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "4906",
+        "name": "正文",
+        "listed_at": "2003/06/30",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "4912",
+        "name": "聯德控股-KY",
+        "listed_at": "2015/05/21",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4915",
+        "name": "致伸",
+        "listed_at": "2012/10/05",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4916",
+        "name": "事欣科",
+        "listed_at": "2013/11/21",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "4919",
+        "name": "新唐",
+        "listed_at": "2010/09/27",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "4927",
+        "name": "泰鼎-KY",
+        "listed_at": "2015/09/08",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4930",
+        "name": "燦星網",
+        "listed_at": "2010/06/21",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "4934",
+        "name": "太極",
+        "listed_at": "2010/03/10",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4935",
+        "name": "茂林-KY",
+        "listed_at": "2011/07/28",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4938",
+        "name": "和碩",
+        "listed_at": "2010/06/24",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "4942",
+        "name": "嘉彰",
+        "listed_at": "2011/06/27",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4943",
+        "name": "康控-KY",
+        "listed_at": "2016/11/11",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4952",
+        "name": "凌通",
+        "listed_at": "2011/11/01",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "4956",
+        "name": "光鋐",
+        "listed_at": "2011/10/24",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4958",
+        "name": "臻鼎-KY",
+        "listed_at": "2011/12/26",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4960",
+        "name": "誠美材",
+        "listed_at": "2011/10/24",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4961",
+        "name": "天鈺",
+        "listed_at": "2018/10/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "4967",
+        "name": "十銓",
+        "listed_at": "2019/01/14",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "4968",
+        "name": "立積",
+        "listed_at": "2015/11/13",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "4976",
+        "name": "佳凌",
+        "listed_at": "2012/11/20",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "4977",
+        "name": "眾達-KY",
+        "listed_at": "2013/11/20",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "4989",
+        "name": "榮科",
+        "listed_at": "2018/06/28",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "4994",
+        "name": "傳奇",
+        "listed_at": "2013/12/25",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "4999",
+        "name": "鑫禾",
+        "listed_at": "2013/06/03",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "5007",
+        "name": "三星",
+        "listed_at": "2011/09/16",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "5203",
+        "name": "訊連",
+        "listed_at": "2004/09/27",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "5215",
+        "name": "科嘉-KY",
+        "listed_at": "2011/12/26",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "5222",
+        "name": "全訊",
+        "listed_at": "2021/10/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "5225",
+        "name": "東科-KY",
+        "listed_at": "2012/11/05",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "5234",
+        "name": "達興材料",
+        "listed_at": "2012/07/16",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "5243",
+        "name": "乙盛-KY",
+        "listed_at": "2013/11/25",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "5244",
+        "name": "弘凱",
+        "listed_at": "2022/01/19",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "5258",
+        "name": "虹堡",
+        "listed_at": "2016/12/30",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "5269",
+        "name": "祥碩",
+        "listed_at": "2012/12/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "5283",
+        "name": "禾聯碩",
+        "listed_at": "2019/05/24",
+        "industry": "電器電纜"
+    },
+    {
+        "ticker": "5284",
+        "name": "jpp-KY",
+        "listed_at": "2017/03/09",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "5285",
+        "name": "界霖",
+        "listed_at": "2014/02/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "5288",
+        "name": "豐祥-KY",
+        "listed_at": "2014/09/25",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "5306",
+        "name": "桂盟",
+        "listed_at": "2022/03/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "5388",
+        "name": "中磊",
+        "listed_at": "2007/12/03",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "5434",
+        "name": "崇越",
+        "listed_at": "2003/08/25",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "5469",
+        "name": "瀚宇博",
+        "listed_at": "2003/08/25",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "5471",
+        "name": "松翰",
+        "listed_at": "2003/08/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "5484",
+        "name": "慧友",
+        "listed_at": "2003/08/25",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "5515",
+        "name": "建國",
+        "listed_at": "2003/10/06",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5519",
+        "name": "隆大",
+        "listed_at": "2014/02/10",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5521",
+        "name": "工信",
+        "listed_at": "2012/12/18",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5522",
+        "name": "遠雄",
+        "listed_at": "2007/08/06",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5525",
+        "name": "順天",
+        "listed_at": "2004/11/26",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5531",
+        "name": "鄉林",
+        "listed_at": "2005/01/31",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5533",
+        "name": "皇鼎",
+        "listed_at": "2008/04/30",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5534",
+        "name": "長虹",
+        "listed_at": "2004/05/24",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5538",
+        "name": "東明-KY",
+        "listed_at": "2013/12/16",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "5546",
+        "name": "永固-KY",
+        "listed_at": "2020/05/20",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "5607",
+        "name": "遠雄港",
+        "listed_at": "2004/12/02",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "5608",
+        "name": "四維航",
+        "listed_at": "2003/08/25",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "5706",
+        "name": "鳳凰",
+        "listed_at": "2011/10/21",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "5871",
+        "name": "中租-KY",
+        "listed_at": "2011/12/13",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "5876",
+        "name": "上海商銀",
+        "listed_at": "2018/10/19",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "5880",
+        "name": "合庫金",
+        "listed_at": "2011/12/01",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "5906",
+        "name": "台南-KY",
+        "listed_at": "2011/10/24",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "5907",
+        "name": "大洋-KY",
+        "listed_at": "2012/06/06",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "6005",
+        "name": "群益證",
+        "listed_at": "2005/11/21",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "6024",
+        "name": "群益期",
+        "listed_at": "2017/10/16",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "6108",
+        "name": "競國",
+        "listed_at": "2008/12/30",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6112",
+        "name": "聚碩",
+        "listed_at": "2003/08/04",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "6115",
+        "name": "鎰勝",
+        "listed_at": "2004/07/19",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6116",
+        "name": "彩晶",
+        "listed_at": "2004/09/06",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6117",
+        "name": "迎廣",
+        "listed_at": "2003/08/25",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6120",
+        "name": "達運",
+        "listed_at": "2006/09/13",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6128",
+        "name": "上福",
+        "listed_at": "2003/06/16",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6133",
+        "name": "金橋",
+        "listed_at": "2003/08/15",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6136",
+        "name": "富爾特",
+        "listed_at": "2003/08/25",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6139",
+        "name": "亞翔",
+        "listed_at": "2003/08/25",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6141",
+        "name": "柏承",
+        "listed_at": "2003/10/22",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6142",
+        "name": "友勁",
+        "listed_at": "2003/08/04",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6152",
+        "name": "百一",
+        "listed_at": "2009/12/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6153",
+        "name": "嘉聯益",
+        "listed_at": "2008/01/21",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6155",
+        "name": "鈞寶",
+        "listed_at": "2006/08/18",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6164",
+        "name": "華興",
+        "listed_at": "2008/10/21",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6165",
+        "name": "浪凡",
+        "listed_at": "2003/08/04",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6166",
+        "name": "凌華",
+        "listed_at": "2004/11/08",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6168",
+        "name": "宏齊",
+        "listed_at": "2003/08/25",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6172",
+        "name": "互億",
+        "listed_at": "2004/05/24",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6176",
+        "name": "瑞儀",
+        "listed_at": "2007/05/15",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6177",
+        "name": "達麗",
+        "listed_at": "2013/08/01",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "6183",
+        "name": "關貿",
+        "listed_at": "2011/12/01",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "6184",
+        "name": "大豐電",
+        "listed_at": "2005/02/15",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6189",
+        "name": "豐藝",
+        "listed_at": "2004/05/24",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "6191",
+        "name": "精成科",
+        "listed_at": "2007/10/19",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6192",
+        "name": "巨路",
+        "listed_at": "2004/09/27",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6196",
+        "name": "帆宣",
+        "listed_at": "2004/05/24",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6197",
+        "name": "佳必琪",
+        "listed_at": "2004/11/08",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6201",
+        "name": "亞弘電",
+        "listed_at": "2004/09/27",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6202",
+        "name": "盛群",
+        "listed_at": "2004/09/27",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6205",
+        "name": "詮欣",
+        "listed_at": "2008/01/21",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6206",
+        "name": "飛捷",
+        "listed_at": "2004/08/03",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6209",
+        "name": "今國光",
+        "listed_at": "2004/11/08",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6213",
+        "name": "聯茂",
+        "listed_at": "2008/01/21",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6214",
+        "name": "精誠",
+        "listed_at": "2010/12/30",
+        "industry": "資訊服務業"
+    },
+    {
+        "ticker": "6215",
+        "name": "和椿",
+        "listed_at": "2007/12/31",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6216",
+        "name": "居易",
+        "listed_at": "2004/09/27",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6224",
+        "name": "聚鼎",
+        "listed_at": "2009/09/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6225",
+        "name": "天瀚",
+        "listed_at": "2004/09/27",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6226",
+        "name": "光鼎",
+        "listed_at": "2008/11/10",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6230",
+        "name": "尼得科超眾",
+        "listed_at": "2010/09/16",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6235",
+        "name": "華孚",
+        "listed_at": "2004/08/23",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6239",
+        "name": "力成",
+        "listed_at": "2004/11/08",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6243",
+        "name": "迅杰",
+        "listed_at": "2009/12/17",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6251",
+        "name": "定穎",
+        "listed_at": "2009/03/18",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6257",
+        "name": "矽格",
+        "listed_at": "2003/08/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6269",
+        "name": "台郡",
+        "listed_at": "2003/09/23",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6271",
+        "name": "同欣電",
+        "listed_at": "2007/11/16",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6277",
+        "name": "宏正",
+        "listed_at": "2003/10/30",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6278",
+        "name": "台表科",
+        "listed_at": "2010/08/24",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6281",
+        "name": "全國電",
+        "listed_at": "2005/12/08",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "6282",
+        "name": "康舒",
+        "listed_at": "2003/09/08",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6283",
+        "name": "淳安",
+        "listed_at": "2008/01/21",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6285",
+        "name": "啟碁",
+        "listed_at": "2003/09/22",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6288",
+        "name": "聯嘉",
+        "listed_at": "2018/05/09",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "6289",
+        "name": "華上",
+        "listed_at": "2003/08/28",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6405",
+        "name": "悅城",
+        "listed_at": "2013/11/28",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6409",
+        "name": "旭隼",
+        "listed_at": "2014/03/31",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6412",
+        "name": "群電",
+        "listed_at": "2013/11/08",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6414",
+        "name": "樺漢",
+        "listed_at": "2014/03/28",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6415",
+        "name": "矽力-KY",
+        "listed_at": "2013/12/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6416",
+        "name": "瑞祺電通",
+        "listed_at": "2018/04/16",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6426",
+        "name": "統新",
+        "listed_at": "2021/03/24",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6431",
+        "name": "光麗-KY",
+        "listed_at": "2014/12/04",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6438",
+        "name": "迅得",
+        "listed_at": "2021/01/19",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6442",
+        "name": "光聖",
+        "listed_at": "2015/07/14",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6443",
+        "name": "元晶",
+        "listed_at": "2015/10/01",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6449",
+        "name": "鈺邦",
+        "listed_at": "2014/12/09",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6451",
+        "name": "訊芯-KY",
+        "listed_at": "2015/01/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6456",
+        "name": "GIS-KY",
+        "listed_at": "2015/06/12",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6464",
+        "name": "台數科",
+        "listed_at": "2015/12/16",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6477",
+        "name": "安集",
+        "listed_at": "2016/06/21",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6491",
+        "name": "晶碩",
+        "listed_at": "2019/10/07",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6504",
+        "name": "南六",
+        "listed_at": "2013/05/07",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6505",
+        "name": "台塑化",
+        "listed_at": "2003/12/26",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "6515",
+        "name": "穎崴",
+        "listed_at": "2021/01/20",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6525",
+        "name": "捷敏-KY",
+        "listed_at": "2016/04/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6531",
+        "name": "愛普*",
+        "listed_at": "2016/05/31",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6533",
+        "name": "晶心科",
+        "listed_at": "2017/03/14",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6541",
+        "name": "泰福-KY",
+        "listed_at": "2017/10/26",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6550",
+        "name": "北極星藥業-KY",
+        "listed_at": "2022/06/06",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6552",
+        "name": "易華電",
+        "listed_at": "2017/01/10",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6558",
+        "name": "興能高",
+        "listed_at": "2018/12/05",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6573",
+        "name": "虹揚-KY",
+        "listed_at": "2017/09/26",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6579",
+        "name": "研揚",
+        "listed_at": "2017/08/21",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6581",
+        "name": "鋼聯",
+        "listed_at": "2018/01/30",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6582",
+        "name": "申豐",
+        "listed_at": "2017/06/14",
+        "industry": "橡膠工業"
+    },
+    {
+        "ticker": "6585",
+        "name": "鼎基",
+        "listed_at": "2022/05/20",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6591",
+        "name": "動力-KY",
+        "listed_at": "2017/12/28",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6592",
+        "name": "和潤企業",
+        "listed_at": "2019/12/09",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6598",
+        "name": "ABC-KY",
+        "listed_at": "2020/06/09",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6605",
+        "name": "帝寶",
+        "listed_at": "2004/03/17",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "6625",
+        "name": "必應",
+        "listed_at": "2018/02/07",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6641",
+        "name": "基士德-KY",
+        "listed_at": "2018/09/21",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6655",
+        "name": "科定",
+        "listed_at": "2018/11/28",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6666",
+        "name": "羅麗芬-KY",
+        "listed_at": "2018/11/19",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6668",
+        "name": "中揚光",
+        "listed_at": "2018/12/12",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6669",
+        "name": "緯穎",
+        "listed_at": "2019/03/27",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "6670",
+        "name": "復盛應用",
+        "listed_at": "2018/12/18",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6671",
+        "name": "三能-KY",
+        "listed_at": "2018/12/11",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6672",
+        "name": "騰輝電子-KY",
+        "listed_at": "2019/04/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6674",
+        "name": "鋐寶科技",
+        "listed_at": "2018/11/28",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6691",
+        "name": "洋基工程",
+        "listed_at": "2022/01/03",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6698",
+        "name": "旭暉應材",
+        "listed_at": "2019/11/25",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6706",
+        "name": "惠特",
+        "listed_at": "2019/12/19",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "6715",
+        "name": "嘉基",
+        "listed_at": "2019/12/12",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6719",
+        "name": "力智",
+        "listed_at": "2022/01/13",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6743",
+        "name": "安普新",
+        "listed_at": "2020/12/14",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "6754",
+        "name": "匯僑設計",
+        "listed_at": "2020/08/25",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6756",
+        "name": "威鋒電子",
+        "listed_at": "2020/12/24",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6768",
+        "name": "志強-KY",
+        "listed_at": "2021/04/22",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6770",
+        "name": "力積電",
+        "listed_at": "2021/12/06",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6776",
+        "name": "展碁國際",
+        "listed_at": "2021/03/31",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "6781",
+        "name": "AES-KY",
+        "listed_at": "2021/03/22",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "6790",
+        "name": "永豐實",
+        "listed_at": "2021/09/29",
+        "industry": "造紙工業"
+    },
+    {
+        "ticker": "6792",
+        "name": "詠業",
+        "listed_at": "2021/12/08",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "6796",
+        "name": "晉弘",
+        "listed_at": "2022/06/01",
+        "industry": "生技醫療業"
+    },
+    {
+        "ticker": "6799",
+        "name": "來頡",
+        "listed_at": "2022/05/12",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "6806",
+        "name": "森崴能源",
+        "listed_at": "2021/11/15",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "6807",
+        "name": "峰源-KY",
+        "listed_at": "2022/04/25",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8011",
+        "name": "台通",
+        "listed_at": "2011/09/19",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "8016",
+        "name": "矽創",
+        "listed_at": "2003/12/25",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8021",
+        "name": "尖點",
+        "listed_at": "2008/01/21",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "8028",
+        "name": "昇陽半導體",
+        "listed_at": "2018/07/10",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8033",
+        "name": "雷虎",
+        "listed_at": "2007/06/21",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8039",
+        "name": "台虹",
+        "listed_at": "2009/12/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "8046",
+        "name": "南電",
+        "listed_at": "2006/04/07",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "8070",
+        "name": "長華*",
+        "listed_at": "2007/12/31",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "8072",
+        "name": "陞泰",
+        "listed_at": "2005/08/19",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "8081",
+        "name": "致新",
+        "listed_at": "2008/12/30",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8101",
+        "name": "華冠",
+        "listed_at": "2004/07/01",
+        "industry": "通信網路業"
+    },
+    {
+        "ticker": "8103",
+        "name": "瀚荃",
+        "listed_at": "2009/09/29",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "8104",
+        "name": "錸寶",
+        "listed_at": "2019/01/17",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "8105",
+        "name": "凌巨",
+        "listed_at": "2006/12/27",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "8110",
+        "name": "華東",
+        "listed_at": "2007/10/31",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8112",
+        "name": "至上",
+        "listed_at": "2007/12/31",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "8114",
+        "name": "振樺電",
+        "listed_at": "2012/11/26",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "8131",
+        "name": "福懋科",
+        "listed_at": "2007/11/29",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8150",
+        "name": "南茂",
+        "listed_at": "2014/04/11",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8163",
+        "name": "達方",
+        "listed_at": "2007/11/28",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "8201",
+        "name": "無敵",
+        "listed_at": "2007/10/29",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "8210",
+        "name": "勤誠",
+        "listed_at": "2011/12/01",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "8213",
+        "name": "志超",
+        "listed_at": "2009/12/25",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "8215",
+        "name": "明基材",
+        "listed_at": "2010/11/12",
+        "industry": "光電業"
+    },
+    {
+        "ticker": "8222",
+        "name": "寶一",
+        "listed_at": "2015/01/27",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "8249",
+        "name": "菱光",
+        "listed_at": "2005/05/17",
+        "industry": "電子零組件業"
+    },
+    {
+        "ticker": "8261",
+        "name": "富鼎",
+        "listed_at": "2009/12/11",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8271",
+        "name": "宇瞻",
+        "listed_at": "2010/12/29",
+        "industry": "半導體業"
+    },
+    {
+        "ticker": "8341",
+        "name": "日友",
+        "listed_at": "2015/03/23",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8367",
+        "name": "建新國際",
+        "listed_at": "2018/09/12",
+        "industry": "航運業"
+    },
+    {
+        "ticker": "8374",
+        "name": "羅昇",
+        "listed_at": "2008/12/25",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "8404",
+        "name": "百和興業-KY",
+        "listed_at": "2011/05/18",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8411",
+        "name": "福貞-KY",
+        "listed_at": "2011/11/01",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8422",
+        "name": "可寧衛",
+        "listed_at": "2011/10/05",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8429",
+        "name": "金麗-KY",
+        "listed_at": "2012/12/20",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "8438",
+        "name": "昶昕",
+        "listed_at": "2022/03/11",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8442",
+        "name": "威宏-KY",
+        "listed_at": "2016/11/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8443",
+        "name": "阿瘦",
+        "listed_at": "2014/09/15",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "8454",
+        "name": "富邦媒",
+        "listed_at": "2014/12/19",
+        "industry": "貿易百貨業"
+    },
+    {
+        "ticker": "8462",
+        "name": "柏文",
+        "listed_at": "2019/03/15",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "8463",
+        "name": "潤泰材",
+        "listed_at": "2015/07/13",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8464",
+        "name": "億豐",
+        "listed_at": "2015/12/22",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8466",
+        "name": "美吉吉-KY",
+        "listed_at": "2016/11/01",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8467",
+        "name": "波力-KY",
+        "listed_at": "2015/12/15",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8473",
+        "name": "山林水",
+        "listed_at": "2016/09/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8478",
+        "name": "東哥遊艇",
+        "listed_at": "2017/12/11",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8480",
+        "name": "泰昇-KY",
+        "listed_at": "2017/01/17",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8481",
+        "name": "政伸",
+        "listed_at": "2017/02/24",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8482",
+        "name": "商億-KY",
+        "listed_at": "2018/08/15",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8488",
+        "name": "吉源-KY",
+        "listed_at": "2016/12/13",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8499",
+        "name": "鼎炫-KY",
+        "listed_at": "2017/11/24",
+        "industry": "其他電子業"
+    },
+    {
+        "ticker": "8926",
+        "name": "台汽電",
+        "listed_at": "2003/08/25",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "8940",
+        "name": "新天地",
+        "listed_at": "2009/05/15",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "8996",
+        "name": "高力",
+        "listed_at": "2014/02/14",
+        "industry": "電機機械"
+    },
+    {
+        "ticker": "9802",
+        "name": "鈺齊-KY",
+        "listed_at": "2012/10/18",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9902",
+        "name": "台火",
+        "listed_at": "1964/07/14",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9904",
+        "name": "寶成",
+        "listed_at": "1990/01/19",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9905",
+        "name": "大華",
+        "listed_at": "1990/08/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9906",
+        "name": "欣巴巴",
+        "listed_at": "1990/12/15",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "9907",
+        "name": "統一實",
+        "listed_at": "1991/01/29",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9908",
+        "name": "大台北",
+        "listed_at": "1991/02/06",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "9910",
+        "name": "豐泰",
+        "listed_at": "1992/02/18",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9911",
+        "name": "櫻花",
+        "listed_at": "1992/07/16",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9912",
+        "name": "偉聯",
+        "listed_at": "1992/08/08",
+        "industry": "電腦及週邊設備業"
+    },
+    {
+        "ticker": "9914",
+        "name": "美利達",
+        "listed_at": "1992/09/30",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9917",
+        "name": "中保科",
+        "listed_at": "1993/12/08",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9918",
+        "name": "欣天然",
+        "listed_at": "1994/04/26",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "9919",
+        "name": "康那香",
+        "listed_at": "1994/11/04",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9921",
+        "name": "巨大",
+        "listed_at": "1994/12/29",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9924",
+        "name": "福興",
+        "listed_at": "1995/03/15",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9925",
+        "name": "新保",
+        "listed_at": "1995/12/09",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9926",
+        "name": "新海",
+        "listed_at": "1998/04/08",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "9927",
+        "name": "泰銘",
+        "listed_at": "1999/03/12",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9928",
+        "name": "中視",
+        "listed_at": "1999/08/09",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9929",
+        "name": "秋雨",
+        "listed_at": "1999/06/28",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9930",
+        "name": "中聯資源",
+        "listed_at": "1999/11/22",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9931",
+        "name": "欣高",
+        "listed_at": "2000/03/21",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "9933",
+        "name": "中鼎",
+        "listed_at": "1993/05/28",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9934",
+        "name": "成霖",
+        "listed_at": "2000/09/11",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9935",
+        "name": "慶豐富",
+        "listed_at": "2000/09/11",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9937",
+        "name": "全國",
+        "listed_at": "2000/09/11",
+        "industry": "油電燃氣業"
+    },
+    {
+        "ticker": "9938",
+        "name": "百和",
+        "listed_at": "2001/01/12",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9939",
+        "name": "宏全",
+        "listed_at": "2001/03/02",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9940",
+        "name": "信義",
+        "listed_at": "2001/09/17",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9941",
+        "name": "裕融",
+        "listed_at": "2001/09/17",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9942",
+        "name": "茂順",
+        "listed_at": "2002/01/28",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9943",
+        "name": "好樂迪",
+        "listed_at": "2002/08/26",
+        "industry": "觀光事業"
+    },
+    {
+        "ticker": "9944",
+        "name": "新麗",
+        "listed_at": "2002/08/26",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9945",
+        "name": "潤泰新",
+        "listed_at": "1992/04/30",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9946",
+        "name": "三發地產",
+        "listed_at": "2013/09/17",
+        "industry": "建材營造業"
+    },
+    {
+        "ticker": "9955",
+        "name": "佳龍",
+        "listed_at": "2008/01/21",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "9958",
+        "name": "世紀鋼",
+        "listed_at": "2008/03/12",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "1312A",
+        "name": "國喬特",
+        "listed_at": "1988/12/21",
+        "industry": "塑膠工業"
+    },
+    {
+        "ticker": "1522A",
+        "name": "堤維西甲特",
+        "listed_at": "2021/08/10",
+        "industry": "汽車工業"
+    },
+    {
+        "ticker": "2002A",
+        "name": "中鋼特",
+        "listed_at": "1974/12/26",
+        "industry": "鋼鐵工業"
+    },
+    {
+        "ticker": "2348A",
+        "name": "海悅甲特",
+        "listed_at": "2021/09/27",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "2836A",
+        "name": "高雄銀甲特",
+        "listed_at": "2021/01/15",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2838A",
+        "name": "聯邦銀甲特",
+        "listed_at": "2017/12/01",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2881A",
+        "name": "富邦特",
+        "listed_at": "2016/05/31",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2881B",
+        "name": "富邦金乙特",
+        "listed_at": "2018/04/23",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2881C",
+        "name": "富邦金丙特",
+        "listed_at": "2021/10/29",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2882A",
+        "name": "國泰特",
+        "listed_at": "2017/01/17",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2882B",
+        "name": "國泰金乙特",
+        "listed_at": "2018/08/08",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2883B",
+        "name": "開發金乙特",
+        "listed_at": "2021/12/30",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2887E",
+        "name": "台新戊特",
+        "listed_at": "2017/02/10",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2887F",
+        "name": "台新戊特二",
+        "listed_at": "2019/01/08",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2888A",
+        "name": "新光金甲特",
+        "listed_at": "2019/11/08",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2888B",
+        "name": "新光金乙特",
+        "listed_at": "2020/09/04",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2891B",
+        "name": "中信金乙特",
+        "listed_at": "2018/01/26",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2891C",
+        "name": "中信金丙特",
+        "listed_at": "2019/05/06",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "2897A",
+        "name": "王道銀甲特",
+        "listed_at": "2019/01/09",
+        "industry": "金融保險業"
+    },
+    {
+        "ticker": "3702A",
+        "name": "大聯大甲特",
+        "listed_at": "2019/11/01",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "5871A",
+        "name": "中租-KY甲特",
+        "listed_at": "2020/09/10",
+        "industry": "其他業"
+    },
+    {
+        "ticker": "8112A",
+        "name": "至上甲特",
+        "listed_at": "2022/03/07",
+        "industry": "電子通路業"
+    },
+    {
+        "ticker": "9941A",
+        "name": "裕融甲特",
+        "listed_at": "2018/11/26",
+        "industry": "其他業"
+    }
+]
