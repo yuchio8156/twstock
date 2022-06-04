@@ -2,11 +2,13 @@
 
 import heapq
 
+from typing import List
+
 
 def sort_stock(
-        stock_data_list: list, 
+        stock_data_list: List, 
         top_n: int = 3, 
-        ) -> list: 
+        ) -> List: 
     """
     Sort and pick the top n stocks with the largest price change
     Required input keys are ticker, close and change

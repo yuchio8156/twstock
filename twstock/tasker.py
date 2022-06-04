@@ -5,6 +5,7 @@ import time
 import logging
 import pandas as pd
 
+from typing import List
 from pathlib import Path
 from random import randint
 from decouple import config
@@ -127,7 +128,7 @@ def get_top_stock(
 
 def run_ticker_by_industry(
         industry: str, 
-        ticker_list: list, 
+        ticker_list: List, 
         today: str=datetime.today().strftime("%Y%m%d"), 
         top_n: int=3, 
         use_thread: bool=True, 

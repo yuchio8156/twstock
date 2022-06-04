@@ -3,10 +3,11 @@
 import re
 import requests
 
+from typing import List
 from twstock.stock_data_crawler import StockDataCrawler
 
 
-def get_proxy() -> list: 
+def get_proxy() -> List: 
     """
     Get free proxy
     

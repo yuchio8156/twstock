@@ -4,6 +4,7 @@ import time
 import requests
 import pandas as pd
 
+from typing import Dict
 from urllib import parse
 from datetime import datetime
 from twstock.utils.get_logger import get_logger
@@ -52,8 +53,8 @@ class StockDataCrawler():
     
     def headers_maker(
             self, 
-            added: dict, 
-            ) -> dict: 
+            added: Dict, 
+            ) -> Dict: 
         """
         Manage common headers and add others for special use
         
