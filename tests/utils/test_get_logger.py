@@ -16,11 +16,11 @@ def test_get_logger():
     name = "test"
     level = logging.WARNING
     test_logger = get_logger(name=name, level=level)
-    assert os.path.isfile(filename) # check file
+    assert os.path.isfile(filename)
 
     test_logger.critical("critical message")
     with open(filename) as f: 
         for line in f: 
             pass
         last_line = line
-    assert re.match(r".* test CRITICAL: critical message", last_line) # check file content
+    assert re.match(r".* test CRITICAL: critical message", last_line)
