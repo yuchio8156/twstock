@@ -4,6 +4,8 @@ import twstock as tw
 
 from pathlib import Path
 from datetime import datetime
+from twstock import config as c
+from apscheduler.triggers.cron import CronTrigger
 from apscheduler.schedulers.background import BlockingScheduler
 
 
@@ -27,12 +29,12 @@ def run(
     stock_info_df = tw.get_stock_info(today=today)
     
     # fetch top 3 for each industry
-    tw.get_top_stock(stock_info_df=stock_info_df, today=today, top_n=3, use_thread=True)
+    tw.get_top_stock(stock_info_df=stock_info_df, today=today, top_n=c.TOPN, use_thread=c.USE_THREAD)
     
     return None
 
 
 if __name__ == "__main__": 
     scheduler = BlockingScheduler()
-    scheduler.add_job(run, "cron", day_of_week="mon-fri", hour=0, minute=0)
+    scheduler.add_job(run, CronTrigger.from_crontab(expr=c.CRONTAB, timezone=c.TIMEZONE))
     scheduler.start()

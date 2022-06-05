@@ -7,6 +7,7 @@ import pandas as pd
 from typing import Dict
 from urllib import parse
 from datetime import datetime
+from twstock import config as c
 from twstock.logger import get_logger
 data_logger = get_logger(name="data")
 
@@ -82,7 +83,7 @@ class StockDataCrawler():
     
     def visit(
             self, 
-            retry: int=5, 
+            retry: int=c.RETRY, 
             ): 
         """
         Request stock search page and get the initial cookie to simulate real visit
@@ -129,7 +130,7 @@ class StockDataCrawler():
             self, 
             ticker: str="2330", 
             date: datetime="20220601", 
-            retry: int=5, 
+            retry: int=c.RETRY, 
             ) -> pd.DataFrame: 
         """
         Get single stock data on a specified date

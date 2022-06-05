@@ -4,11 +4,12 @@ import logging
 import logging.handlers
 
 from datetime import datetime
+from twstock import config as c
 
 
 def get_logger(
         name: str, 
-        level: int=logging.INFO, 
+        level: int=c.LOG_LEVEL, 
         ) -> logging.RootLogger: 
     """
     Manage logs

@@ -2,7 +2,6 @@
 
 import json
 import time
-import logging
 import pandas as pd
 
 from typing import List
@@ -17,7 +16,7 @@ from twstock.stock_data_crawler import StockDataCrawler
 from twstock.stock_info_crawler import StockInfoCrawler
 
 from twstock.logger import get_logger
-main_logger = get_logger(name="main", level=logging.INFO)
+main_logger = get_logger(name="main")
 
 
 def get_stock_info(

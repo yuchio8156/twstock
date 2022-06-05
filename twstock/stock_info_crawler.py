@@ -4,6 +4,7 @@ import time
 import requests
 import pandas as pd
 
+from twstock import config as c
 from twstock.logger import get_logger
 info_logger = get_logger(name="info")
 
@@ -35,7 +36,7 @@ class StockInfoCrawler():
     
     def get(
             self, 
-            retry: int=5, 
+            retry: int=c.RETRY, 
             ) -> pd.DataFrame: 
         """
         Request `https://isin.twse.com.tw/isin/C_public.jsp?strMode=2` and 
