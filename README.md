@@ -1,4 +1,4 @@
-# TWSTOCK
+# 台股爬蟲
 
 抓取台股每日各產業別漲幅前三名股票
 
@@ -41,54 +41,27 @@ $ cd twstock
 $ docker-compose up
 ```
 
-輸出結果會在根目錄以執行日期 `yyyymmdd` 創建資料夾並將 `listed.json` 與 `{industry}_top3.json` 保存其中
-
 提醒：若欲使用代理伺服器服務，可至 `.env` 修改帳號及密碼並設置 `USE_PROXY=TRUE`
 
+### 執行結果
 
+開始執行時，會自動在根目錄產生記錄檔 `yyyymmdd.log`
 
-## 流程架構
+順利完成執行後，輸出結果會在根目錄以執行日期 `yyyymmdd` 創建資料夾
 
-```mermaid
-flowchart LR
-
-s([開始]) --> stock_info_op(獲取\n股票資訊)
-
-subgraph 任務一
-stock_info_op --> stock_info_io[股票資訊]
-end
-
-stock_info_io --> stock_info_file["listed.json"]
-stock_info_io --> if_open{開盤}
-if_open -- 否 --> e([結束])
-
-subgraph 任務二
-if_open -- 是 --> stock_date_op(抓取\n股票資料)
-
-subgraph 分行業別多續執行
-stock_date_op --> stock_data_io[股票資料]
-stock_data_io --> stock_sort_op(排序股票)
-stock_sort_op --> stock_top3_io[前三股票]
-end
-
-end
-
-stock_top3_io --> stock_top3_file["{industry}_top3.json"]
-stock_top3_io --> e
-
-```
+並將股票資訊 `listed.json` 與各產業別漲幅前三名股票 `{industry}_top3.json` 保存其中
 
 
 
 ## 實作說明
 
-目前已完成最小可行性產品的開發
+目前已完成**最小可行性產品**的開發
 
-在使用多執行續的情況下，完成一次完整流程的花費時間大約落在一分鐘左右
+在使用多執行續的情況下，完成一次完整流程的花費時間大約落在 **30 秒至 1 分鐘**左右
 
-專案要求股票資訊與產業別收盤漲幅前三名之股票
+專案僅要求股票資訊與產業別收盤漲幅前三名之股票
 
-考量未來擴展性，各項任務都以一般化的思維去做設計，每個函數都可以獨立拉出來做為其他使用
+但考量未來擴展性，各項任務都以**一般化**的思維去做設計，每個函數都可以獨立拉出來做為其他使用
 
 底下逐一說明各項任務的安排規劃
 
@@ -99,7 +72,7 @@ stock_top3_io --> e
 
 本來較少接觸自動化測試這塊
 
-在做了一些功課後決定採用測試驅動開發
+在做了一些功課後決定採用**測試驅動開發**
 
 因此在專案底下的程式都是先有測試用例才有後續的開發和優化
 
@@ -119,6 +92,8 @@ stock_top3_io --> e
     ├── stock_info_crawler.py
     └── tasker.py
 ```
+
+點擊 ► 可觀看詳細說明
 
 <details>
     <summary>
@@ -241,6 +216,40 @@ stock_top3_io --> e
 </details>
 
 
+### 流程
+
+任務一：獲取股票資訊並輸出結果，使用函數 [`get_stock_info()`](https://github.com/yuchio8156/twstock/blob/main/twstock/tasker.py#L22)
+
+任務二：承上結果，繼續抓取股票資料並排序取各產業別漲幅前三名股票，使用函數 [`get_top_stock()`](https://github.com/yuchio8156/twstock/blob/main/twstock/tasker.py#L58)
+
+```mermaid
+flowchart LR
+
+s([開始]) --> stock_info_op(獲取\n股票資訊)
+
+subgraph 任務一
+stock_info_op --> stock_info_io[股票資訊]
+end
+
+stock_info_io --> stock_info_file["listed.json"]
+stock_info_io --> if_open{開盤}
+if_open -- 否 --> e([結束])
+
+subgraph 任務二
+if_open -- 是 --> stock_date_op(抓取\n股票資料)
+
+subgraph 分行業別多續執行
+stock_date_op --> stock_data_io[股票資料]
+stock_data_io --> stock_sort_op(排序股票)
+stock_sort_op --> stock_top3_io[前三股票]
+end
+
+end
+
+stock_top3_io --> stock_top3_file["{industry}_top3.json"]
+stock_top3_io --> e
+
+```
 
 
 ### 部屬
