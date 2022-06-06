@@ -2,7 +2,7 @@
 
 抓取台股每日各產業別漲幅前三名股票
 
-資料來源: 
+資料來源：
 * [台股上市證券代號及名稱](https://isin.twse.com.tw/isin/C_public.jsp?strMode=2)
 * [每日收盤價](https://www.twse.com.tw/en/page/trading/exchange/STOCK_DAY.html)
 
@@ -43,7 +43,7 @@ $ docker-compose up
 
 輸出結果會在根目錄以執行日期 `yyyymmdd` 創建資料夾並將 `listed.json` 與 `{industry}_top3.json` 保存其中
 
-提醒: 若欲使用代理伺服器服務，可至 `.env` 修改帳號及密碼並設置 `USE_PROXY=TRUE`
+提醒：若欲使用代理伺服器服務，可至 `.env` 修改帳號及密碼並設置 `USE_PROXY=TRUE`
 
 
 
@@ -236,6 +236,8 @@ stock_top3_io --> e
     </summary>
     <p><b>主程式</b></p>
     <span>導入 <code>tasker.py</code> 的兩個函數使用並加入 cronjob 進行排程管理</span>
+	<br>
+	<span>呼叫函數並填入指定日期可直接獲取該日的股票資訊，如：<code>run("20220601")</code></span>
 </details>
 
 
