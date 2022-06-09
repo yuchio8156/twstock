@@ -12,6 +12,7 @@ LOG_LEVEL = logging.INFO # DEBUG, INFO, WARNING, ERROR, CRITICAL
 TOPN = 3
 TIMEZONE = pytz.timezone("Asia/Taipei")
 CRONTAB = "0 15 * * mon-fri" # min hour day month week
+USE_INDUSTRY = True
 
 if config("USE_PROXY").upper() == "TRUE": 
     USE_THREAD = True

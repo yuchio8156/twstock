@@ -29,7 +29,7 @@ def run(
     stock_info_df = tw.get_stock_info(today=today)
     
     # fetch top 3 for each industry
-    tw.get_top_stock(stock_info_df=stock_info_df, today=today, top_n=c.TOPN, use_thread=c.USE_THREAD)
+    tw.get_top_stock(stock_info_df=stock_info_df, today=today, top_n=c.TOPN, use_thread=c.USE_THREAD, use_industry=c.USE_INDUSTRY)
     
     return None
 

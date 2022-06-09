@@ -41,9 +41,10 @@ def test_get_stock_info():
 def test_get_top_stock(test_get_stock_info): 
 
     today = "20220601"
+    use_industry = True
     use_thread = True
     top_n = 3
-    get_top_stock(stock_info_df=test_get_stock_info, today=today, top_n=top_n, use_thread=use_thread)
+    get_top_stock(stock_info_df=test_get_stock_info, today=today, top_n=top_n, use_thread=use_thread, use_industry=use_industry)
     
     industry_list = [
         "光電業", "其他業", "其他電子業", "化學工業", "半導體業", "塑膠工業", "建材營造業", 

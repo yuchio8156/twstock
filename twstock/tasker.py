@@ -60,6 +60,7 @@ def get_top_stock(
         today: str=datetime.today().strftime("%Y%m%d"), 
         top_n: int=3, 
         use_thread: bool=True, 
+        use_industry: bool=True, 
         ): 
     """
     Get all the stock price data of the day and sort the top n by industry
@@ -78,6 +79,7 @@ def get_top_stock(
         today (str): the date for retrieve data, formatted as yyyymmdd, default today
         top_n (int): top n stocks, default 3
         use_thread (bool): whether to use multithreading, default True
+        use_industry (bool): whether to get all stocks in the industry at once, default True
     
     Returns:
         none
@@ -102,20 +104,44 @@ def get_top_stock(
     for industry in stock_info_df.industry.unique(): 
         ticker_list = stock_info_df.loc[stock_info_df.industry == industry, "ticker"].tolist()
         
-        if use_thread: 
-            thread = Thread(
-                target=run_ticker_by_industry, 
-                args=(industry, ticker_list, today, top_n, use_thread), 
-                )
-            thread.start()
-            thread_list.append(thread)
+        # use industry
+        if use_industry: 
+            # get industry_type_dict for following use
+            industry_type_dict = StockDataCrawler().get_industry_type_dict()
+            
+            # use thread
+            if use_thread: 
+                thread = Thread(
+                    target=run_industry, 
+                    args=(industry_type_dict, industry, today, top_n, use_thread), 
+                    )
+                thread.start()
+                thread_list.append(thread)
+            else: 
+                run_industry(
+                    industry_type_dict=industry_type_dict, 
+                    industry=industry, 
+                    today=today, 
+                    top_n=top_n, 
+                    use_thread=use_thread, 
+                    )
         else: 
-            run_ticker_by_industry(
-                industry=industry, 
-                ticker_list=ticker_list, 
-                today=today, 
-                use_thread=use_thread, 
-                )
+            # use thread
+            if use_thread: 
+                thread = Thread(
+                    target=run_ticker_by_industry, 
+                    args=(industry, ticker_list, today, top_n, use_thread), 
+                    )
+                thread.start()
+                thread_list.append(thread)
+            else: 
+                run_ticker_by_industry(
+                    industry=industry, 
+                    ticker_list=ticker_list, 
+                    today=today, 
+                    top_n=top_n, 
+                    use_thread=use_thread, 
+                    )
     
     # thread join
     if thread_list: 
@@ -134,9 +160,10 @@ def run_ticker_by_industry(
         ): 
     """
     Get all stock price data of the industry on the day and sort the top three
+    Run tickers by industry use for loop
     
     Args:
-        industry (str): industry type
+        industry (str): industry name
         ticker_list (list): tickers of the industry
         today (str): the date for retrieve data, formatted as yyyymmdd, default today
         top_n (int): top n stocks, default 3
@@ -151,9 +178,10 @@ def run_ticker_by_industry(
     stock_data_crawler = StockDataCrawler()
     
     # add proxy
-    proxy = f"{config('PROXY_USERNAME')}:{config('PROXY_PASSWORD')}@zproxy.lum-superproxy.io:22225"
-    proxies = {"http": f"http://{proxy}", "https": f"https://{proxy}"}
-    stock_data_crawler.session.proxies.update(proxies)
+    if use_thread: 
+        proxy = f"{config('PROXY_USERNAME')}:{config('PROXY_PASSWORD')}@zproxy.lum-superproxy.io:22225"
+        proxies = {"http": f"http://{proxy}", "https": f"https://{proxy}"}
+        stock_data_crawler.session.proxies.update(proxies)
     
     # run ticker
     stock_data_df = pd.DataFrame()
@@ -165,6 +193,68 @@ def run_ticker_by_industry(
         
         if not use_thread: 
             time.sleep(randint(2000, 3000)*0.001)
+    
+    # sort stock
+    stock_data_df = stock_data_df[["ticker", "close", "change"]]
+    stock_data_list = stock_data_df.to_dict("records")
+    stock_data_json = sort_stock(stock_data_list=stock_data_list)
+    
+    # save as json
+    filename = f"./{today}/{industry}_top3.json"
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(stock_data_json, f, ensure_ascii=False, indent=4)
+    main_logger.info(f"{industry}, done")
+    
+    return None
+
+
+def run_industry(
+        industry_type_dict: dict, 
+        industry: str, 
+        today: str=datetime.today().strftime("%Y%m%d"), 
+        top_n: int=3, 
+        use_thread: bool=True, 
+        ): 
+    """
+    Get all stock price data of the industry on the day and sort the top three
+    Run tickers by industry at once
+    
+    Args:
+        industry_type_dict (dict): mapping table of industry type
+        industry (str): industry name
+        today (str): the date for retrieve data, formatted as yyyymmdd, default today
+        top_n (int): top n stocks, default 3
+        use_thread (bool): whether to use multithreading, default True
+    
+    Returns:
+        none
+    """
+    
+    # crawler
+    main_logger.debug(f"{industry}, start")
+    stock_data_crawler = StockDataCrawler()
+    
+    # add proxy
+    if use_thread: 
+        proxy = f"{config('PROXY_USERNAME')}:{config('PROXY_PASSWORD')}@zproxy.lum-superproxy.io:22225"
+        proxies = {"http": f"http://{proxy}", "https": f"https://{proxy}"}
+        stock_data_crawler.session.proxies.update(proxies)
+    
+    # get industry type
+    try: 
+        industry_type = industry_type_dict[industry]
+    except: 
+        # handling industry name inconsistencies
+        if "業" in industry: 
+            industry = industry.replace("業", "")
+        else: 
+            industry += "業"
+        industry_type = industry_type_dict[industry]
+            
+    
+    # run ticker
+    stock_data_df = stock_data_crawler.get_batch(industry_type=industry_type)
+    time.sleep(randint(2000, 3000)*0.001)
     
     # sort stock
     stock_data_df = stock_data_df[["ticker", "close", "change"]]

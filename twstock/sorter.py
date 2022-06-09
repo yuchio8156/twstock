@@ -36,7 +36,9 @@ def sort_stock(
             stock_data["real_diff"] = -999
         elif stock_data["change"] == " 0.00": 
             # If no change, diff assign zero
-            change = 0
+            stock_data["real_diff"] = 0
+        elif stock_data["close"] == "--": 
+            # If no change, diff assign zero
             stock_data["real_diff"] = 0
         else: 
             change = float(stock_data["change"].replace(",", ""))
