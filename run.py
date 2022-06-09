@@ -36,5 +36,5 @@ def run(
 
 if __name__ == "__main__": 
     scheduler = BlockingScheduler()
-    scheduler.add_job(run, CronTrigger.from_crontab(expr=c.CRONTAB, timezone=c.TIMEZONE))
+    scheduler.add_job(run, CronTrigger.from_crontab(expr=c.CRONTAB, timezone=c.TIMEZONE), misfire_grace_time=300)
     scheduler.start()
